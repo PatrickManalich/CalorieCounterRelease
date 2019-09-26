@@ -497,6 +497,17 @@
       "MealSourceType": 1,
       "Archived": false
     },
+    "Plantains": {
+      "Name": "Plantains",
+      "ServingSize": "Container",
+      "Fat": 40.0,
+      "Carbs": 108.0,
+      "Protein": 4.0,
+      "Calories": 808.0,
+      "Description": "Kroger salted plantain chips",
+      "MealSourceType": 1,
+      "Archived": false
+    },
     "Pork Loin": {
       "Name": "Pork Loin",
       "ServingSize": "Roast",
