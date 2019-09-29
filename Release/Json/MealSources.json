@@ -541,6 +541,28 @@
       "mealSourceType": 1,
       "archived": false
     },
+    "7a263155-8967-4521-aaf7-a6d3d8f2b404": {
+      "id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+      "servingSize": "Cup",
+      "fat": 0.0,
+      "carbs": 140.0,
+      "protein": 12.0,
+      "calories": 608.0,
+      "description": "Goya yellow rice spanish style family size",
+      "mealSourceType": 1,
+      "archived": false
+    },
+    "c9256ae0-e329-418a-839b-8d080cf6b042": {
+      "id": "c9256ae0-e329-418a-839b-8d080cf6b042",
+      "servingSize": "Fillet",
+      "fat": 9.0,
+      "carbs": 0.0,
+      "protein": 36.0,
+      "calories": 225.0,
+      "description": "Kroger wild caught boneless sockeye salmon",
+      "mealSourceType": 1,
+      "archived": false
+    },
     "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4": {
       "id": "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4",
       "servingSize": "Bag",
@@ -604,6 +626,17 @@
       "protein": 34.6,
       "calories": 286.0,
       "description": "Kroger bag of 0.8 lb of sliced turkey",
+      "mealSourceType": 1,
+      "archived": false
+    },
+    "925bcc52-bb92-4370-a9b5-b33f82f31906": {
+      "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+      "servingSize": "Slice",
+      "fat": 17.0,
+      "carbs": 35.0,
+      "protein": 16.0,
+      "calories": 357.0,
+      "description": "Slice of large pepperoni magnifico pizza from Marco's",
       "mealSourceType": 1,
       "archived": false
     }
