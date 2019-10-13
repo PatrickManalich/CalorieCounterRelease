@@ -313,5 +313,23 @@
     "muscleMass": 45.2,
     "boneMass": 4.9,
     "bmi": 21.6
+  },
+  "2019-09-30T00:00:00-04:00": {
+    "date": "2019-09-30T00:00:00-04:00",
+    "weight": 137.0,
+    "bodyFat": 13.7,
+    "bodyWater": 63.5,
+    "muscleMass": 45.1,
+    "boneMass": 4.9,
+    "bmi": 21.1
+  },
+  "2019-10-07T00:00:00-04:00": {
+    "date": "2019-10-07T00:00:00-04:00",
+    "weight": 137.0,
+    "bodyFat": 13.2,
+    "bodyWater": 63.5,
+    "muscleMass": 45.1,
+    "boneMass": 4.9,
+    "bmi": 21.7
   }
 }

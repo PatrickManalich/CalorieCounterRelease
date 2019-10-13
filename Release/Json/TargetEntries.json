@@ -453,5 +453,31 @@
     "trainingDayCarbs": 366.5,
     "trainingDayProtein": 156.2,
     "trainingDayCalories": 2680.5
+  },
+  "2019-09-30T00:00:00-04:00": {
+    "date": "2019-09-30T00:00:00-04:00",
+    "weight": 137.0,
+    "calorieMaintenanceLevel": 2188.0,
+    "restDayFat": 72.7,
+    "restDayCarbs": 263.3,
+    "restDayProtein": 157.6,
+    "restDayCalories": 2338.0,
+    "trainingDayFat": 65.7,
+    "trainingDayCarbs": 366.6,
+    "trainingDayProtein": 157.6,
+    "trainingDayCalories": 2688.0
+  },
+  "2019-10-07T00:00:00-04:00": {
+    "date": "2019-10-07T00:00:00-04:00",
+    "weight": 137.0,
+    "calorieMaintenanceLevel": 2188.0,
+    "restDayFat": 72.7,
+    "restDayCarbs": 263.3,
+    "restDayProtein": 157.6,
+    "restDayCalories": 2338.0,
+    "trainingDayFat": 65.7,
+    "trainingDayCarbs": 366.6,
+    "trainingDayProtein": 157.6,
+    "trainingDayCalories": 2688.0
   }
 }
