@@ -105,17 +105,17 @@
           "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
           "servingSize": "Cup",
           "fat": 0.0,
-          "carbs": 36.0,
-          "protein": 3.0,
-          "calories": 156.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
           "description": "Mahatma extra long enriched rice",
           "mealSourceType": 1,
           "archived": false
         },
         "fat": 0.0,
-        "carbs": 18.0,
-        "protein": 1.5,
-        "calories": 78.0
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
       }
     ],
     "Custom": [
