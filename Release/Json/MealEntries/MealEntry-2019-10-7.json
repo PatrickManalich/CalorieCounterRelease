@@ -1,0 +1,160 @@
+{
+  "dateTime": "2019-10-07T00:00:00-04:00",
+  "dayType": 2,
+  "totalFat": 68.1,
+  "totalCarbs": 204.7,
+  "totalProtein": 129.4,
+  "totalCalories": 1949.3,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 36.0,
+          "protein": 3.0,
+          "calories": 156.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 18.0,
+        "protein": 1.5,
+        "calories": 78.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "servingSize": "Pepper",
+          "fat": 0.2,
+          "carbs": 7.6,
+          "protein": 1.0,
+          "calories": 36.2,
+          "description": "General green bell pepper",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.1,
+        "carbs": 3.8,
+        "protein": 0.5,
+        "calories": 18.1
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "759b2675-7fb5-4b55-ba47-fceda113f599",
+          "servingSize": "Bottle",
+          "fat": 0.0,
+          "carbs": 55.0,
+          "protein": 0.0,
+          "calories": 220.0,
+          "description": "Powerade orange 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 27.5,
+        "protein": 0.0,
+        "calories": 110.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "ec350088-3504-46b3-816b-f209dcc42aa7",
+          "servingSize": "Meal",
+          "fat": 8.8,
+          "carbs": 36.0,
+          "protein": 4.1,
+          "calories": 239.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 17.6,
+        "carbs": 72.0,
+        "protein": 8.2,
+        "calories": 479.2
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "5b8e1237-a100-45ed-b6b3-f8eff32608c5",
+          "servingSize": "Meal",
+          "fat": 12.0,
+          "carbs": 7.0,
+          "protein": 16.0,
+          "calories": 200.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 24.0,
+        "carbs": 14.0,
+        "protein": 32.0,
+        "calories": 400.0
+      }
+    ]
+  }
+}

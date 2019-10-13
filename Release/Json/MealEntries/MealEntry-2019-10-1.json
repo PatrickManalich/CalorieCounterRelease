@@ -1,0 +1,142 @@
+{
+  "dateTime": "2019-10-01T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 66.6,
+  "totalCarbs": 177.8,
+  "totalProtein": 113.5,
+  "totalCalories": 1764.6,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "2f21067d-6cc5-4376-a06e-671a6f1304bf",
+          "servingSize": "Container",
+          "fat": 68.0,
+          "carbs": 0.0,
+          "protein": 84.0,
+          "calories": 948.0,
+          "description": "Kroger ground beef 85% lean meat and 15% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 34.0,
+        "carbs": 0.0,
+        "protein": 42.0,
+        "calories": 474.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "60a634a6-e431-4cde-8a19-63c50747c4ee",
+          "servingSize": "Can",
+          "fat": 4.0,
+          "carbs": 0.0,
+          "protein": 1.0,
+          "calories": 40.0,
+          "description": "Goya tomato sauce spanish style",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.0,
+        "carbs": 0.0,
+        "protein": 1.0,
+        "calories": 40.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "servingSize": "Pepper",
+          "fat": 0.2,
+          "carbs": 7.6,
+          "protein": 1.0,
+          "calories": 36.2,
+          "description": "General green bell pepper",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.1,
+        "carbs": 3.8,
+        "protein": 0.5,
+        "calories": 18.1
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 140.0,
+          "protein": 12.0,
+          "calories": 608.0,
+          "description": "Goya yellow rice spanish style family size",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 105.0,
+        "protein": 9.0,
+        "calories": 456.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "c416e3ef-10e9-40bf-8f42-3840bfb96a4b",
+          "servingSize": "Meal",
+          "fat": 2.5,
+          "carbs": 20.0,
+          "protein": 2.0,
+          "calories": 110.5,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 7.5,
+        "carbs": 60.0,
+        "protein": 6.0,
+        "calories": 331.5
+      }
+    ]
+  }
+}

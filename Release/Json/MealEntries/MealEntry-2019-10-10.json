@@ -1,0 +1,232 @@
+{
+  "dateTime": "2019-10-10T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 101.2,
+  "totalCarbs": 286.7,
+  "totalProtein": 122.5,
+  "totalCalories": 2547.6,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "servingSize": "Bagel",
+          "fat": 3.5,
+          "carbs": 53.0,
+          "protein": 9.0,
+          "calories": 279.5,
+          "description": "Thomas everything bagel",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 1.8,
+        "carbs": 26.5,
+        "protein": 4.5,
+        "calories": 140.2
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "f89c3f26-9a89-4b4e-a0fa-29353551e9a2",
+          "servingSize": "Sandwich",
+          "fat": 16.0,
+          "carbs": 8.0,
+          "protein": 7.0,
+          "calories": 204.0,
+          "description": "Two tbsp. of Jif creamy peanut butter",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 8.0,
+        "carbs": 4.0,
+        "protein": 3.5,
+        "calories": 102.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "servingSize": "Box",
+          "fat": 8.0,
+          "carbs": 336.0,
+          "protein": 56.0,
+          "calories": 1640.0,
+          "description": "Barilla farfalle box",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 84.0,
+        "protein": 14.0,
+        "calories": 410.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e1bc78ad-c289-4703-961d-81dc659b1af4",
+          "servingSize": "Jar",
+          "fat": 7.5,
+          "carbs": 65.0,
+          "protein": 10.0,
+          "calories": 367.5,
+          "description": "Prego italian sauce traditional 24 oz jar",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.8,
+        "carbs": 32.5,
+        "protein": 5.0,
+        "calories": 184.2
+      },
+      {
+        "servingAmount": 0.33,
+        "mealSource": {
+          "id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "servingSize": "Container",
+          "fat": 92.0,
+          "carbs": 0.0,
+          "protein": 76.0,
+          "calories": 1132.0,
+          "description": "Kroger ground beef 80% lean meat and 20% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 30.4,
+        "carbs": 0.0,
+        "protein": 25.1,
+        "calories": 374.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "servingSize": "Slice",
+          "fat": 9.0,
+          "carbs": 17.0,
+          "protein": 3.0,
+          "calories": 161.0,
+          "description": "New York Bakery texas toast with real garlic",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 18.0,
+        "carbs": 34.0,
+        "protein": 6.0,
+        "calories": 322.0
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 36.0,
+          "protein": 3.0,
+          "calories": 156.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 27.0,
+        "protein": 2.2,
+        "calories": 116.8
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "servingSize": "Half Cup",
+          "fat": 0.3,
+          "carbs": 8.1,
+          "protein": 2.5,
+          "calories": 45.1,
+          "description": "General peas and carrots",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.1,
+        "carbs": 2.0,
+        "protein": 0.6,
+        "calories": 11.3
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "servingSize": "Egg",
+          "fat": 4.8,
+          "carbs": 0.4,
+          "protein": 6.3,
+          "calories": 70.0,
+          "description": "General egg",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.8,
+        "carbs": 0.4,
+        "protein": 6.3,
+        "calories": 70.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4",
+          "servingSize": "Bag",
+          "fat": 7.5,
+          "carbs": 5.0,
+          "protein": 95.0,
+          "calories": 467.5,
+          "description": "Kroger cooked shrimp tail on peeled and deveined extra large",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.8,
+        "carbs": 2.5,
+        "protein": 47.5,
+        "calories": 234.2
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "759b2675-7fb5-4b55-ba47-fceda113f599",
+          "servingSize": "Bottle",
+          "fat": 0.0,
+          "carbs": 55.0,
+          "protein": 0.0,
+          "calories": 220.0,
+          "description": "Powerade orange 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 13.8,
+        "protein": 0.0,
+        "calories": 55.2
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "a03a1286-e93d-4dcd-8318-23093d4ddd35",
+          "servingSize": "Meal",
+          "fat": 9.5,
+          "carbs": 20.0,
+          "protein": 2.6,
+          "calories": 175.9,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 28.5,
+        "carbs": 60.0,
+        "protein": 7.8,
+        "calories": 527.7
+      }
+    ]
+  }
+}

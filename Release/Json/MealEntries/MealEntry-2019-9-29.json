@@ -1,0 +1,159 @@
+{
+  "dateTime": "2019-09-29T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 44.5,
+  "totalCarbs": 226.7,
+  "totalProtein": 105.5,
+  "totalCalories": 1729.3,
+  "mealProportionsDictionary": {
+    "Small": [],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "1c45dec9-91d7-4929-9feb-38a270caa8f5",
+          "servingSize": "Sandwich",
+          "fat": 14.0,
+          "carbs": 44.0,
+          "protein": 39.0,
+          "calories": 458.0,
+          "description": "Firehouse medium roast beef sandwich on white bread with only provolone cheese",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 14.0,
+        "carbs": 44.0,
+        "protein": 39.0,
+        "calories": 458.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "08c49000-aa7c-4b56-b9f7-1f382aec76d4",
+          "servingSize": "Cup",
+          "fat": 0.3,
+          "carbs": 52.3,
+          "protein": 0.0,
+          "calories": 211.9,
+          "description": "Firehouse Powerade sports drink orange 22 fl oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.3,
+        "carbs": 52.3,
+        "protein": 0.0,
+        "calories": 211.9
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "f088eb64-762a-4dd2-8e28-a520efd07ce7",
+          "servingSize": "Bag",
+          "fat": 8.0,
+          "carbs": 20.0,
+          "protein": 2.0,
+          "calories": 160.0,
+          "description": "Firehouse Funyuns onion flavored rings",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.0,
+        "carbs": 10.0,
+        "protein": 1.0,
+        "calories": 80.0
+      },
+      {
+        "servingAmount": 0.1,
+        "mealSource": {
+          "id": "318d6664-2aa2-4377-a9ca-c098ecf8b16f",
+          "servingSize": "Container",
+          "fat": 57.0,
+          "carbs": 134.0,
+          "protein": 18.0,
+          "calories": 1121.0,
+          "description": "Ben & Jerry's half baked",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 5.7,
+        "carbs": 13.4,
+        "protein": 1.8,
+        "calories": 112.1
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 0.0,
+        "protein": 50.0,
+        "calories": 218.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "6138a6ae-db2a-48f0-9b65-1b5e7a01a825",
+          "servingSize": "Meal",
+          "fat": 1.8,
+          "carbs": 29.0,
+          "protein": 2.8,
+          "calories": 143.4,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 1.8,
+        "carbs": 29.0,
+        "protein": 2.8,
+        "calories": 143.4
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7772d339-2b97-4397-bfa5-85657ef4b733",
+          "servingSize": "Meal",
+          "fat": 4.7,
+          "carbs": 12.0,
+          "protein": 8.5,
+          "calories": 124.3,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 4.7,
+        "carbs": 12.0,
+        "protein": 8.5,
+        "calories": 124.3
+      },
+      {
+        "servingAmount": 6.0,
+        "mealSource": {
+          "id": "782384b9-9a4b-4527-821a-35304db4c152",
+          "servingSize": "Meal",
+          "fat": 2.0,
+          "carbs": 11.0,
+          "protein": 0.4,
+          "calories": 63.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 12.0,
+        "carbs": 66.0,
+        "protein": 2.4,
+        "calories": 381.6
+      }
+    ]
+  }
+}

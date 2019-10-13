@@ -1,0 +1,160 @@
+{
+  "dateTime": "2019-10-06T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 86.1,
+  "totalCarbs": 227.8,
+  "totalProtein": 124.0,
+  "totalCalories": 2182.1,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "servingSize": "Slice",
+          "fat": 17.0,
+          "carbs": 35.0,
+          "protein": 16.0,
+          "calories": 357.0,
+          "description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 17.0,
+        "carbs": 35.0,
+        "protein": 16.0,
+        "calories": 357.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 36.0,
+          "protein": 3.0,
+          "calories": 156.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 18.0,
+        "protein": 1.5,
+        "calories": 78.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "servingSize": "Pepper",
+          "fat": 0.2,
+          "carbs": 7.6,
+          "protein": 1.0,
+          "calories": 36.2,
+          "description": "General green bell pepper",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.1,
+        "carbs": 3.8,
+        "protein": 0.5,
+        "calories": 18.1
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "servingSize": "Tortilla",
+          "fat": 3.0,
+          "carbs": 26.0,
+          "protein": 4.0,
+          "calories": 147.0,
+          "description": "Mission flour tortillas soft taco",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.0,
+        "carbs": 26.0,
+        "protein": 4.0,
+        "calories": 147.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f673195a-d4ba-4f1f-b445-f2d29de73d5f",
+          "servingSize": "Meal",
+          "fat": 33.0,
+          "carbs": 40.0,
+          "protein": 33.0,
+          "calories": 589.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 33.0,
+        "carbs": 40.0,
+        "protein": 33.0,
+        "calories": 589.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "1131abd6-8ac8-4e74-953a-f2fe7a822ffa",
+          "servingSize": "Meal",
+          "fat": 12.0,
+          "carbs": 96.0,
+          "protein": 14.0,
+          "calories": 548.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 12.0,
+        "carbs": 96.0,
+        "protein": 14.0,
+        "calories": 548.0
+      }
+    ]
+  }
+}
