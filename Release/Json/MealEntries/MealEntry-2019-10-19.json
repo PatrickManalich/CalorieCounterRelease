@@ -1,0 +1,141 @@
+{
+  "dateTime": "2019-10-19T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 70.0,
+  "totalCarbs": 265.0,
+  "totalProtein": 91.0,
+  "totalCalories": 2054.0,
+  "mealProportionsDictionary": {
+    "Small": [],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "servingSize": "Shake",
+          "fat": 25.0,
+          "carbs": 86.0,
+          "protein": 15.0,
+          "calories": 629.0,
+          "description": "Chic-fil-A large vanilla shake",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 25.0,
+        "carbs": 86.0,
+        "protein": 15.0,
+        "calories": 629.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "servingSize": "Sandwich",
+          "fat": 19.0,
+          "carbs": 40.0,
+          "protein": 28.0,
+          "calories": 443.0,
+          "description": "Chic-fil-A chicken sandwich",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 19.0,
+        "carbs": 40.0,
+        "protein": 28.0,
+        "calories": 443.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 39.0,
+        "protein": 0.0,
+        "calories": 156.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "servingSize": "Tortilla",
+          "fat": 3.0,
+          "carbs": 26.0,
+          "protein": 4.0,
+          "calories": 147.0,
+          "description": "Mission flour tortillas soft taco",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.0,
+        "carbs": 26.0,
+        "protein": 4.0,
+        "calories": 147.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "servingSize": "Half Cup",
+          "fat": 16.0,
+          "carbs": 2.0,
+          "protein": 14.0,
+          "calories": 208.0,
+          "description": "Kroger queso quesadilla finely shredded cheese",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 16.0,
+        "carbs": 2.0,
+        "protein": 14.0,
+        "calories": 208.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "16a712c8-b610-4060-838c-66d294ce11e9",
+          "servingSize": "Meal",
+          "fat": 7.0,
+          "carbs": 0.0,
+          "protein": 24.0,
+          "calories": 159.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 7.0,
+        "carbs": 0.0,
+        "protein": 24.0,
+        "calories": 159.0
+      }
+    ]
+  }
+}

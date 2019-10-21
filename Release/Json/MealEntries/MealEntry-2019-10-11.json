@@ -1,0 +1,142 @@
+{
+  "dateTime": "2019-10-11T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 95.0,
+  "totalCarbs": 412.8,
+  "totalProtein": 81.4,
+  "totalCalories": 2831.8,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 15.0,
+        "carbs": 6.8,
+        "protein": 22.5,
+        "calories": 252.2
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 140.0,
+          "protein": 12.0,
+          "calories": 608.0,
+          "description": "Goya yellow rice spanish style family size",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 35.0,
+        "protein": 3.0,
+        "calories": 152.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 78.0,
+        "protein": 0.0,
+        "calories": 312.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "60b99a74-d153-4e2b-8753-b717b0616c25",
+          "servingSize": "Meal",
+          "fat": 19.0,
+          "carbs": 38.0,
+          "protein": 7.8,
+          "calories": 354.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 57.0,
+        "carbs": 114.0,
+        "protein": 23.4,
+        "calories": 1062.6
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "4dc03b1a-a63c-4194-b559-0eac6d2d13e8",
+          "servingSize": "Meal",
+          "fat": 4.0,
+          "carbs": 75.0,
+          "protein": 1.9,
+          "calories": 343.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 8.0,
+        "carbs": 150.0,
+        "protein": 3.8,
+        "calories": 687.2
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a9caffce-99a1-4973-b5e3-8eb2c2c12649",
+          "servingSize": "Meal",
+          "fat": 14.0,
+          "carbs": 29.0,
+          "protein": 3.7,
+          "calories": 256.8,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 14.0,
+        "carbs": 29.0,
+        "protein": 3.7,
+        "calories": 256.8
+      }
+    ]
+  }
+}
