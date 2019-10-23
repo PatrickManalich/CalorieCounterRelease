@@ -1,0 +1,160 @@
+{
+  "dateTime": "2019-10-20T00:00:00-04:00",
+  "dayType": 2,
+  "totalFat": 29.1,
+  "totalCarbs": 276.9,
+  "totalProtein": 101.3,
+  "totalCalories": 1774.7,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 4.1,
+        "carbs": 45.3,
+        "protein": 24.2,
+        "calories": 314.9
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.5,
+        "carbs": 0.0,
+        "protein": 12.5,
+        "calories": 54.5
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 108.0,
+        "protein": 9.0,
+        "calories": 468.0
+      },
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "servingSize": "Egg",
+          "fat": 4.8,
+          "carbs": 0.4,
+          "protein": 6.3,
+          "calories": 70.0,
+          "description": "General egg",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 7.2,
+        "carbs": 0.6,
+        "protein": 9.5,
+        "calories": 105.2
+      },
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.5,
+        "carbs": 0.0,
+        "protein": 37.5,
+        "calories": 163.5
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "1b3d4105-fc01-4e93-97f5-fd206473b1da",
+          "servingSize": "Meal",
+          "fat": 0.7,
+          "carbs": 14.0,
+          "protein": 0.0,
+          "calories": 62.3,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 1.4,
+        "carbs": 28.0,
+        "protein": 0.0,
+        "calories": 124.6
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "67485cc9-f19f-476d-bc97-5d6ecf464dbd",
+          "servingSize": "Meal",
+          "fat": 0.2,
+          "carbs": 26.0,
+          "protein": 3.1,
+          "calories": 118.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 0.4,
+        "carbs": 52.0,
+        "protein": 6.2,
+        "calories": 236.4
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "dacc9476-1649-43b3-8b80-d06eda0d5ea3",
+          "servingSize": "Meal",
+          "fat": 14.0,
+          "carbs": 43.0,
+          "protein": 2.4,
+          "calories": 307.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 14.0,
+        "carbs": 43.0,
+        "protein": 2.4,
+        "calories": 307.6
+      }
+    ]
+  }
+}

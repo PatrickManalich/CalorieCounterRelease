@@ -1,0 +1,178 @@
+{
+  "dateTime": "2019-10-21T00:00:00-04:00",
+  "dayType": 1,
+  "totalFat": 101.3,
+  "totalCarbs": 304.9,
+  "totalProtein": 139.7,
+  "totalCalories": 2690.1,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "d1351318-c5b3-405a-add8-76e7208140c8",
+          "servingSize": "Bag",
+          "fat": 12.6,
+          "carbs": 2.7,
+          "protein": 55.8,
+          "calories": 347.4,
+          "description": "Kroger bag of 0.8 lb of sliced ham",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 6.3,
+        "carbs": 1.4,
+        "protein": 27.9,
+        "calories": 173.9
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "30d473b1-e992-4085-8142-e35d6b1b99e5",
+          "servingSize": "Slice",
+          "fat": 5.0,
+          "carbs": 0.0,
+          "protein": 5.0,
+          "calories": 65.0,
+          "description": "Sargento provolone cheese",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 10.0,
+        "carbs": 0.0,
+        "protein": 10.0,
+        "calories": 130.0
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "servingSize": "Box",
+          "fat": 8.0,
+          "carbs": 336.0,
+          "protein": 56.0,
+          "calories": 1640.0,
+          "description": "Barilla farfalle box",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 84.0,
+        "protein": 14.0,
+        "calories": 410.0
+      },
+      {
+        "servingAmount": 0.33,
+        "mealSource": {
+          "id": "e1bc78ad-c289-4703-961d-81dc659b1af4",
+          "servingSize": "Jar",
+          "fat": 7.5,
+          "carbs": 65.0,
+          "protein": 10.0,
+          "calories": 367.5,
+          "description": "Prego italian sauce traditional 24 oz jar",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.5,
+        "carbs": 21.5,
+        "protein": 3.3,
+        "calories": 121.7
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "2f21067d-6cc5-4376-a06e-671a6f1304bf",
+          "servingSize": "Container",
+          "fat": 68.0,
+          "carbs": 0.0,
+          "protein": 84.0,
+          "calories": 948.0,
+          "description": "Kroger ground beef 85% lean meat and 15% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 34.0,
+        "carbs": 0.0,
+        "protein": 42.0,
+        "calories": 474.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "servingSize": "Slice",
+          "fat": 9.0,
+          "carbs": 17.0,
+          "protein": 3.0,
+          "calories": 161.0,
+          "description": "New York Bakery texas toast with real garlic",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 18.0,
+        "carbs": 34.0,
+        "protein": 6.0,
+        "calories": 322.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.5,
+        "mealSource": {
+          "id": "0aa86ba5-eb6f-45aa-9999-4b6acf5fb618",
+          "servingSize": "Meal",
+          "fat": 1.0,
+          "carbs": 14.0,
+          "protein": 2.6,
+          "calories": 75.4,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 2.5,
+        "carbs": 35.0,
+        "protein": 6.5,
+        "calories": 188.5
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "44e812ef-2209-4557-aeb6-cd418de94927",
+          "servingSize": "Meal",
+          "fat": 2.0,
+          "carbs": 40.0,
+          "protein": 0.0,
+          "calories": 178.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 6.0,
+        "carbs": 120.0,
+        "protein": 0.0,
+        "calories": 534.0
+      }
+    ]
+  }
+}
