@@ -1,0 +1,141 @@
+{
+  "dateTime": "2019-11-05T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 141.3,
+  "totalCarbs": 285.0,
+  "totalProtein": 225.9,
+  "totalCalories": 3315.3,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "servingSize": "Fruit",
+          "fat": 0.4,
+          "carbs": 27.0,
+          "protein": 1.3,
+          "calories": 116.8,
+          "description": "General banana",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 0.8,
+        "carbs": 54.0,
+        "protein": 2.6,
+        "calories": 233.6
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f89c3f26-9a89-4b4e-a0fa-29353551e9a2",
+          "servingSize": "Sandwich",
+          "fat": 16.0,
+          "carbs": 8.0,
+          "protein": 7.0,
+          "calories": 204.0,
+          "description": "Two tbsp. of Jif creamy peanut butter",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 16.0,
+        "carbs": 8.0,
+        "protein": 7.0,
+        "calories": 204.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "servingSize": "Bagel",
+          "fat": 3.5,
+          "carbs": 53.0,
+          "protein": 9.0,
+          "calories": 279.5,
+          "description": "Thomas everything bagel",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 3.5,
+        "carbs": 53.0,
+        "protein": 9.0,
+        "calories": 279.5
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "servingSize": "Roast",
+          "fat": 80.0,
+          "carbs": 0.0,
+          "protein": 234.7,
+          "calories": 1658.8,
+          "description": "Simple Truth natural pork 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 40.0,
+        "carbs": 0.0,
+        "protein": 117.3,
+        "calories": 829.2
+      },
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "servingSize": "Roll",
+          "fat": 2.5,
+          "carbs": 14.0,
+          "protein": 3.0,
+          "calories": 90.5,
+          "description": "King's Hawaiian savory butter roll",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 10.0,
+        "carbs": 56.0,
+        "protein": 12.0,
+        "calories": 362.0
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "servingSize": "Slice",
+          "fat": 17.0,
+          "carbs": 35.0,
+          "protein": 16.0,
+          "calories": 357.0,
+          "description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 51.0,
+        "carbs": 105.0,
+        "protein": 48.0,
+        "calories": 1071.0
+      }
+    ],
+    "Custom": []
+  }
+}

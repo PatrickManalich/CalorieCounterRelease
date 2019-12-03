@@ -1,0 +1,142 @@
+{
+  "dateTime": "2019-11-12T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 64.0,
+  "totalCarbs": 298.1,
+  "totalProtein": 116.9,
+  "totalCalories": 2236.0,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 39.0,
+        "protein": 0.0,
+        "calories": 156.0
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 108.0,
+        "protein": 9.0,
+        "calories": 468.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4",
+          "servingSize": "Bag",
+          "fat": 7.5,
+          "carbs": 5.0,
+          "protein": 95.0,
+          "calories": 467.5,
+          "description": "Kroger cooked shrimp tail on peeled and deveined extra large",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.8,
+        "carbs": 2.5,
+        "protein": 47.5,
+        "calories": 234.2
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "497165b3-462f-477c-8ea4-e826c6468504",
+          "servingSize": "Meal",
+          "fat": 9.9,
+          "carbs": 21.0,
+          "protein": 9.4,
+          "calories": 210.7,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 19.8,
+        "carbs": 42.0,
+        "protein": 18.8,
+        "calories": 421.4
+      },
+      {
+        "servingAmount": 8.0,
+        "mealSource": {
+          "id": "9b9d2f55-d4d9-4424-9a4f-76c1ad6c13d6",
+          "servingSize": "Meal",
+          "fat": 0.1,
+          "carbs": 2.7,
+          "protein": 0.9,
+          "calories": 15.3,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 0.8,
+        "carbs": 21.6,
+        "protein": 7.2,
+        "calories": 122.4
+      },
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "97b052ec-2343-46b5-a507-956c5a6b719f",
+          "servingSize": "Meal",
+          "fat": 4.9,
+          "carbs": 19.0,
+          "protein": 1.1,
+          "calories": 124.5,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 19.6,
+        "carbs": 76.0,
+        "protein": 4.4,
+        "calories": 498.0
+      }
+    ]
+  }
+}

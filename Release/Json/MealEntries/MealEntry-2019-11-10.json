@@ -1,0 +1,123 @@
+{
+  "dateTime": "2019-11-10T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 76.4,
+  "totalCarbs": 216.0,
+  "totalProtein": 96.0,
+  "totalCalories": 1935.6,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "servingSize": "Fruit",
+          "fat": 0.4,
+          "carbs": 27.0,
+          "protein": 1.3,
+          "calories": 116.8,
+          "description": "General banana",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 0.4,
+        "carbs": 27.0,
+        "protein": 1.3,
+        "calories": 116.8
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "17705e78-dcbb-4158-8b58-90731773adca",
+          "servingSize": "Slice",
+          "fat": 0.8,
+          "carbs": 11.5,
+          "protein": 3.0,
+          "calories": 65.2,
+          "description": "One slice of Nature's Own whitewheat healthy white bread",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 0.8,
+        "carbs": 11.5,
+        "protein": 3.0,
+        "calories": 65.2
+      }
+    ],
+    "Large": [],
+    "Custom": [
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "f00c0ac0-02ab-45a8-9b66-5425146ba9e7",
+          "servingSize": "Meal",
+          "fat": 6.2,
+          "carbs": 7.1,
+          "protein": 7.0,
+          "calories": 112.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 9.3,
+        "carbs": 10.6,
+        "protein": 10.5,
+        "calories": 168.1
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c14e8bcf-57b5-43f8-8123-fef414e2c4be",
+          "servingSize": "Meal",
+          "fat": 17.0,
+          "carbs": 48.0,
+          "protein": 4.0,
+          "calories": 361.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 17.0,
+        "carbs": 48.0,
+        "protein": 4.0,
+        "calories": 361.0
+      },
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "35e1d72a-9abb-4aa1-93b9-83d884476a4e",
+          "servingSize": "Meal",
+          "fat": 29.0,
+          "carbs": 39.0,
+          "protein": 30.0,
+          "calories": 537.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 43.5,
+        "carbs": 58.5,
+        "protein": 45.0,
+        "calories": 805.5
+      }
+    ]
+  }
+}
