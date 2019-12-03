@@ -505,5 +505,18 @@
     "trainingDayCarbs": 366.7,
     "trainingDayProtein": 158.5,
     "trainingDayCalories": 2693.0
+  },
+  "2019-10-28T00:00:00-04:00": {
+    "dateTime": "2019-10-28T00:00:00-04:00",
+    "weight": 137.8,
+    "calorieMaintenanceLevel": 2193.0,
+    "restDayFat": 72.9,
+    "restDayCarbs": 263.2,
+    "restDayProtein": 158.5,
+    "restDayCalories": 2343.0,
+    "trainingDayFat": 65.8,
+    "trainingDayCarbs": 366.7,
+    "trainingDayProtein": 158.5,
+    "trainingDayCalories": 2693.0
   }
 }
