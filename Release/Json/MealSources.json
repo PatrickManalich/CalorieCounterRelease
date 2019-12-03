@@ -497,6 +497,17 @@
       "mealSourceType": 1,
       "archived": false
     },
+    "925bcc52-bb92-4370-a9b5-b33f82f31906": {
+      "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+      "servingSize": "Slice",
+      "fat": 17.0,
+      "carbs": 35.0,
+      "protein": 16.0,
+      "calories": 357.0,
+      "description": "Slice of large pepperoni magnifico pizza from Marco's",
+      "mealSourceType": 1,
+      "archived": false
+    },
     "750ff6a4-ff83-46d5-9ea6-2802cbb0576a": {
       "id": "750ff6a4-ff83-46d5-9ea6-2802cbb0576a",
       "servingSize": "Container",
@@ -629,14 +640,14 @@
       "mealSourceType": 1,
       "archived": false
     },
-    "925bcc52-bb92-4370-a9b5-b33f82f31906": {
-      "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
-      "servingSize": "Slice",
-      "fat": 17.0,
-      "carbs": 35.0,
+    "76892867-512e-4270-90b5-334eddba872e": {
+      "id": "76892867-512e-4270-90b5-334eddba872e",
+      "servingSize": "Bag",
+      "fat": 20.0,
+      "carbs": 160.0,
       "protein": 16.0,
-      "calories": 357.0,
-      "description": "Slice of large pepperoni magnifico pizza from Marco's",
+      "calories": 884.0,
+      "description": "Idahoan buttery homestyle mashed potatoes family size",
       "mealSourceType": 1,
       "archived": false
     }
