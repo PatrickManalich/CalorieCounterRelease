@@ -421,5 +421,14 @@
     "muscleMass": 45.2,
     "boneMass": 4.9,
     "bmi": 21.6
+  },
+  "2020-01-20T00:00:00-05:00": {
+    "dateTime": "2020-01-20T00:00:00-05:00",
+    "weight": 136.6,
+    "bodyFat": 13.2,
+    "bodyWater": 63.5,
+    "muscleMass": 45.1,
+    "boneMass": 4.9,
+    "bmi": 21.7
   }
 }
