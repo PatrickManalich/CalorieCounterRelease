@@ -1,0 +1,124 @@
+{
+  "dateTime": "2020-01-10T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 101.8,
+  "totalCarbs": 260.0,
+  "totalProtein": 109.0,
+  "totalCalories": 2392.2,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "591e1757-d988-487e-984f-e20a865f91f2",
+          "servingSize": "Pizza",
+          "fat": 100.0,
+          "carbs": 120.0,
+          "protein": 70.0,
+          "calories": 1660.0,
+          "description": "Screamin' Sicilian holy pepperoni pizza",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 50.0,
+        "carbs": 60.0,
+        "protein": 35.0,
+        "calories": 830.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 39.0,
+        "protein": 0.0,
+        "calories": 156.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "4a9477c8-84a4-4636-8c6b-c78c8770aa02",
+          "servingSize": "Meal",
+          "fat": 15.0,
+          "carbs": 110.0,
+          "protein": 13.0,
+          "calories": 627.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 15.0,
+        "carbs": 110.0,
+        "protein": 13.0,
+        "calories": 627.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "174c7117-7885-4a8b-8ca3-a3669cc40fa4",
+          "servingSize": "Meal",
+          "fat": 1.0,
+          "carbs": 1.0,
+          "protein": 14.0,
+          "calories": 69.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 2.0,
+        "protein": 28.0,
+        "calories": 138.0
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "b643f623-e3c8-4128-84cf-192def06fed2",
+          "servingSize": "Meal",
+          "fat": 7.4,
+          "carbs": 20.0,
+          "protein": 1.5,
+          "calories": 152.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 14.8,
+        "carbs": 40.0,
+        "protein": 3.0,
+        "calories": 305.2
+      }
+    ]
+  }
+}

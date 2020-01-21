@@ -1,0 +1,177 @@
+{
+  "dateTime": "2019-12-04T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 77.2,
+  "totalCarbs": 246.0,
+  "totalProtein": 106.0,
+  "totalCalories": 2102.8,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "servingSize": "Sandwich",
+          "fat": 19.0,
+          "carbs": 40.0,
+          "protein": 28.0,
+          "calories": 443.0,
+          "description": "Chic-fil-A chicken sandwich",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 19.0,
+        "carbs": 40.0,
+        "protein": 28.0,
+        "calories": 443.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "1f7d8135-8164-4c38-bfc8-644981d2f1ad",
+          "servingSize": "Container",
+          "fat": 18.0,
+          "carbs": 43.0,
+          "protein": 5.0,
+          "calories": 354.0,
+          "description": "Chic-fil-A medium fries",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 18.0,
+        "carbs": 43.0,
+        "protein": 5.0,
+        "calories": 354.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "dfecb953-6351-4621-a98e-b65c5de371b7",
+          "servingSize": "Container",
+          "fat": 0.0,
+          "carbs": 44.0,
+          "protein": 0.0,
+          "calories": 176.0,
+          "description": "Chic-fil-A medium sprite",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 44.0,
+        "protein": 0.0,
+        "calories": 176.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "servingSize": "Half Cup",
+          "fat": 0.3,
+          "carbs": 8.1,
+          "protein": 2.5,
+          "calories": 45.1,
+          "description": "General peas and carrots",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.2,
+        "carbs": 4.1,
+        "protein": 1.2,
+        "calories": 23.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "servingSize": "Egg",
+          "fat": 4.8,
+          "carbs": 0.4,
+          "protein": 6.3,
+          "calories": 70.0,
+          "description": "General egg",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.8,
+        "carbs": 0.4,
+        "protein": 6.3,
+        "calories": 70.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "318d6664-2aa2-4377-a9ca-c098ecf8b16f",
+          "servingSize": "Container",
+          "fat": 57.0,
+          "carbs": 134.0,
+          "protein": 18.0,
+          "calories": 1121.0,
+          "description": "Ben & Jerry's half baked",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 14.2,
+        "carbs": 33.5,
+        "protein": 4.5,
+        "calories": 279.8
+      }
+    ],
+    "Custom": []
+  }
+}

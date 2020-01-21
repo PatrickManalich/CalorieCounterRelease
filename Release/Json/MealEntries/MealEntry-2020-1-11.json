@@ -1,0 +1,160 @@
+{
+  "dateTime": "2020-01-11T00:00:00-05:00",
+  "dayType": 2,
+  "totalFat": 95.6,
+  "totalCarbs": 480.0,
+  "totalProtein": 128.8,
+  "totalCalories": 3295.6,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "servingSize": "Bagel",
+          "fat": 3.5,
+          "carbs": 53.0,
+          "protein": 9.0,
+          "calories": 279.5,
+          "description": "Thomas everything bagel",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 3.5,
+        "carbs": 53.0,
+        "protein": 9.0,
+        "calories": 279.5
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "ec544bd0-c811-4627-a440-bad70cbe477f",
+          "servingSize": "Bagel",
+          "fat": 20.0,
+          "carbs": 3.2,
+          "protein": 3.6,
+          "calories": 207.2,
+          "description": "Philadelphia cream cheese original",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 3.2,
+        "protein": 3.6,
+        "calories": 207.2
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 117.0,
+        "protein": 0.0,
+        "calories": 468.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 12.0,
+        "mealSource": {
+          "id": "0a73e9f1-42fe-4dcd-b394-36b1c7b96305",
+          "servingSize": "Meal",
+          "fat": 2.3,
+          "carbs": 7.7,
+          "protein": 3.6,
+          "calories": 65.9,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 27.6,
+        "carbs": 92.4,
+        "protein": 43.2,
+        "calories": 790.8
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "41c0b2a6-e298-48cd-9a7f-c86fc59a4474",
+          "servingSize": "Meal",
+          "fat": 4.1,
+          "carbs": 36.0,
+          "protein": 8.8,
+          "calories": 216.1,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 4.1,
+        "carbs": 36.0,
+        "protein": 8.8,
+        "calories": 216.1
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "8fff5f0d-b988-4e2e-9b44-2553462286df",
+          "servingSize": "Meal",
+          "fat": 70.0,
+          "carbs": 92.0,
+          "protein": 52.0,
+          "calories": 1206.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 35.0,
+        "carbs": 46.0,
+        "protein": 26.0,
+        "calories": 603.0
+      }
+    ]
+  }
+}

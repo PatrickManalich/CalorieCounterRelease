@@ -1,0 +1,141 @@
+{
+  "dateTime": "2020-01-12T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 59.8,
+  "totalCarbs": 205.1,
+  "totalProtein": 81.8,
+  "totalCalories": 1685.8,
+  "mealProportionsDictionary": {
+    "Small": [],
+    "Large": [
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "servingSize": "Can",
+          "fat": 0.0,
+          "carbs": 39.0,
+          "protein": 0.0,
+          "calories": 156.0,
+          "description": "Coca-Cola 12 oz can",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 58.5,
+        "protein": 0.0,
+        "calories": 234.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c9256ae0-e329-418a-839b-8d080cf6b042",
+          "servingSize": "Fillet",
+          "fat": 9.0,
+          "carbs": 0.0,
+          "protein": 36.0,
+          "calories": 225.0,
+          "description": "Kroger wild caught boneless sockeye salmon",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 9.0,
+        "carbs": 0.0,
+        "protein": 36.0,
+        "calories": 225.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c6b7bfad-3f0f-4d83-abec-1c80777c9cd8",
+          "servingSize": "Ten Spears",
+          "fat": 0.3,
+          "carbs": 6.2,
+          "protein": 3.6,
+          "calories": 41.9,
+          "description": "Ten spears of general asparagus",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.3,
+        "carbs": 6.2,
+        "protein": 3.6,
+        "calories": 41.9
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "2a6eb0dc-4c16-4068-9693-3b64c497c467",
+          "servingSize": "Meal",
+          "fat": 6.2,
+          "carbs": 7.1,
+          "protein": 7.0,
+          "calories": 112.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 18.6,
+        "carbs": 21.3,
+        "protein": 21.0,
+        "calories": 336.6
+      },
+      {
+        "servingAmount": 2.5,
+        "mealSource": {
+          "id": "716d4433-d145-49e5-ab94-03284a5550cd",
+          "servingSize": "Meal",
+          "fat": 0.9,
+          "carbs": 12.0,
+          "protein": 2.0,
+          "calories": 64.1,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 2.2,
+        "carbs": 30.0,
+        "protein": 5.0,
+        "calories": 159.8
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "73562933-f31f-4fc9-bb78-13c80afce248",
+          "servingSize": "Meal",
+          "fat": 2.3,
+          "carbs": 7.7,
+          "protein": 3.6,
+          "calories": 65.9,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 6.9,
+        "carbs": 23.1,
+        "protein": 10.8,
+        "calories": 197.7
+      },
+      {
+        "servingAmount": 6.0,
+        "mealSource": {
+          "id": "3df5c21f-6fd6-49ab-b0a0-513550db7847",
+          "servingSize": "Meal",
+          "fat": 3.8,
+          "carbs": 11.0,
+          "protein": 0.9,
+          "calories": 81.8,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 22.8,
+        "carbs": 66.0,
+        "protein": 5.4,
+        "calories": 490.8
+      }
+    ]
+  }
+}

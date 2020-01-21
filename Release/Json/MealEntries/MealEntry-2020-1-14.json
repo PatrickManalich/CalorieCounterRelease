@@ -1,0 +1,177 @@
+{
+  "dateTime": "2020-01-14T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 114.0,
+  "totalCarbs": 257.9,
+  "totalProtein": 139.2,
+  "totalCalories": 2614.4,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "servingSize": "Fruit",
+          "fat": 0.4,
+          "carbs": 27.0,
+          "protein": 1.3,
+          "calories": 116.8,
+          "description": "General banana",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 0.4,
+        "carbs": 27.0,
+        "protein": 1.3,
+        "calories": 116.8
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "servingSize": "Bagel",
+          "fat": 3.5,
+          "carbs": 53.0,
+          "protein": 9.0,
+          "calories": 279.5,
+          "description": "Thomas everything bagel",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 3.5,
+        "carbs": 53.0,
+        "protein": 9.0,
+        "calories": 279.5
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "d1351318-c5b3-405a-add8-76e7208140c8",
+          "servingSize": "Bag",
+          "fat": 12.6,
+          "carbs": 2.7,
+          "protein": 55.8,
+          "calories": 347.4,
+          "description": "Kroger bag of 0.8 lb of sliced ham",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 6.3,
+        "carbs": 1.4,
+        "protein": 27.9,
+        "calories": 173.9
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "30d473b1-e992-4085-8142-e35d6b1b99e5",
+          "servingSize": "Slice",
+          "fat": 5.0,
+          "carbs": 0.0,
+          "protein": 5.0,
+          "calories": 65.0,
+          "description": "Sargento provolone cheese",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 5.0,
+        "carbs": 0.0,
+        "protein": 5.0,
+        "calories": 65.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "servingSize": "Container",
+          "fat": 92.0,
+          "carbs": 0.0,
+          "protein": 76.0,
+          "calories": 1132.0,
+          "description": "Kroger ground beef 80% lean meat and 20% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 46.0,
+        "carbs": 0.0,
+        "protein": 38.0,
+        "calories": 566.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e1bc78ad-c289-4703-961d-81dc659b1af4",
+          "servingSize": "Jar",
+          "fat": 7.5,
+          "carbs": 65.0,
+          "protein": 10.0,
+          "calories": 367.5,
+          "description": "Prego italian sauce traditional 24 oz jar",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.8,
+        "carbs": 32.5,
+        "protein": 5.0,
+        "calories": 184.2
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "servingSize": "Box",
+          "fat": 8.0,
+          "carbs": 336.0,
+          "protein": 56.0,
+          "calories": 1640.0,
+          "description": "Barilla farfalle box",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 84.0,
+        "protein": 14.0,
+        "calories": 410.0
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "servingSize": "Slice",
+          "fat": 9.0,
+          "carbs": 17.0,
+          "protein": 3.0,
+          "calories": 161.0,
+          "description": "New York Bakery texas toast with real garlic",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 27.0,
+        "carbs": 51.0,
+        "protein": 9.0,
+        "calories": 483.0
+      }
+    ],
+    "Custom": []
+  }
+}
