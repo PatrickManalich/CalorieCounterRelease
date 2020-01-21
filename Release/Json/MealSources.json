@@ -153,7 +153,7 @@
       "protein": 3.0,
       "calories": 65.2,
       "description": "One slice of Nature's Own whitewheat healthy white bread",
-      "mealSourceType": 0,
+      "mealSourceType": 1,
       "archived": false
     },
     "1be10e3d-4020-4245-acf3-d318bcef6823": {
