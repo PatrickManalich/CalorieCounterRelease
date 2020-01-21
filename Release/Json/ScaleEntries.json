@@ -394,5 +394,32 @@
     "muscleMass": 45.2,
     "boneMass": 4.9,
     "bmi": 21.6
+  },
+  "2019-12-09T00:00:00-05:00": {
+    "dateTime": "2019-12-09T00:00:00-05:00",
+    "weight": 135.8,
+    "bodyFat": 13.0,
+    "bodyWater": 63.7,
+    "muscleMass": 45.2,
+    "boneMass": 4.9,
+    "bmi": 21.6
+  },
+  "2019-12-30T00:00:00-05:00": {
+    "dateTime": "2019-12-30T00:00:00-05:00",
+    "weight": 135.8,
+    "bodyFat": 13.1,
+    "bodyWater": 63.6,
+    "muscleMass": 45.2,
+    "boneMass": 4.9,
+    "bmi": 21.6
+  },
+  "2020-01-06T00:00:00-05:00": {
+    "dateTime": "2020-01-06T00:00:00-05:00",
+    "weight": 134.2,
+    "bodyFat": 12.6,
+    "bodyWater": 63.6,
+    "muscleMass": 45.2,
+    "boneMass": 4.9,
+    "bmi": 21.6
   }
 }
