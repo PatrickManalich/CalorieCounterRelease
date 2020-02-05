@@ -1,0 +1,124 @@
+{
+  "dateTime": "2020-02-03T00:00:00-05:00",
+  "dayType": 2,
+  "totalFat": 45.1,
+  "totalCarbs": 287.4,
+  "totalProtein": 155.3,
+  "totalCalories": 2176.7,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 0.33,
+        "mealSource": {
+          "id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "servingSize": "Roast",
+          "fat": 80.0,
+          "carbs": 0.0,
+          "protein": 234.7,
+          "calories": 1658.8,
+          "description": "Simple Truth natural pork 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 26.4,
+        "carbs": 0.0,
+        "protein": 77.5,
+        "calories": 547.6
+      },
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "servingSize": "Roll",
+          "fat": 2.5,
+          "carbs": 14.0,
+          "protein": 3.0,
+          "calories": 90.5,
+          "description": "King's Hawaiian savory butter roll",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 10.0,
+        "carbs": 56.0,
+        "protein": 12.0,
+        "calories": 362.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "36fd5cd4-98ad-4135-af83-5813b85b2e4f",
+          "servingSize": "Meal",
+          "fat": 0.5,
+          "carbs": 33.0,
+          "protein": 1.0,
+          "calories": 140.5,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 132.0,
+        "protein": 4.0,
+        "calories": 562.0
+      },
+      {
+        "servingAmount": 1.5,
+        "mealSource": {
+          "id": "935f79ca-66ac-461f-883f-3bcc0a9a39cc",
+          "servingSize": "Meal",
+          "fat": 0.2,
+          "carbs": 26.0,
+          "protein": 3.1,
+          "calories": 118.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 0.3,
+        "carbs": 39.0,
+        "protein": 4.6,
+        "calories": 177.1
+      }
+    ]
+  }
+}

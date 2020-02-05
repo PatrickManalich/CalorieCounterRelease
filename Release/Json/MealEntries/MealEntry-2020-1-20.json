@@ -1,0 +1,196 @@
+{
+  "dateTime": "2020-01-20T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 80.2,
+  "totalCarbs": 239.8,
+  "totalProtein": 140.8,
+  "totalCalories": 2244.2,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4",
+          "servingSize": "Bag",
+          "fat": 7.5,
+          "carbs": 5.0,
+          "protein": 95.0,
+          "calories": 467.5,
+          "description": "Kroger cooked shrimp tail on peeled and deveined extra large",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.8,
+        "carbs": 2.5,
+        "protein": 47.5,
+        "calories": 234.2
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "servingSize": "Half Cup",
+          "fat": 0.3,
+          "carbs": 8.1,
+          "protein": 2.5,
+          "calories": 45.1,
+          "description": "General peas and carrots",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.3,
+        "carbs": 8.1,
+        "protein": 2.5,
+        "calories": 45.1
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "servingSize": "Egg",
+          "fat": 4.8,
+          "carbs": 0.4,
+          "protein": 6.3,
+          "calories": 70.0,
+          "description": "General egg",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.8,
+        "carbs": 0.4,
+        "protein": 6.3,
+        "calories": 70.0
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 108.0,
+        "protein": 9.0,
+        "calories": 468.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "servingSize": "Container",
+          "fat": 92.0,
+          "carbs": 0.0,
+          "protein": 76.0,
+          "calories": 1132.0,
+          "description": "Kroger ground beef 80% lean meat and 20% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 46.0,
+        "carbs": 0.0,
+        "protein": 38.0,
+        "calories": 566.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "60a634a6-e431-4cde-8a19-63c50747c4ee",
+          "servingSize": "Can",
+          "fat": 4.0,
+          "carbs": 0.0,
+          "protein": 1.0,
+          "calories": 40.0,
+          "description": "Goya tomato sauce spanish style",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 4.0,
+        "carbs": 0.0,
+        "protein": 1.0,
+        "calories": 40.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "servingSize": "Pepper",
+          "fat": 0.2,
+          "carbs": 7.6,
+          "protein": 1.0,
+          "calories": 36.2,
+          "description": "General green bell pepper",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.1,
+        "carbs": 3.8,
+        "protein": 0.5,
+        "calories": 18.1
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "4e5f3701-cca1-45b3-8af9-1f1c06b59930",
+          "servingSize": "Meal",
+          "fat": 0.4,
+          "carbs": 12.0,
+          "protein": 0.0,
+          "calories": 51.6,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 1.2,
+        "carbs": 36.0,
+        "protein": 0.0,
+        "calories": 154.8
+      }
+    ]
+  }
+}

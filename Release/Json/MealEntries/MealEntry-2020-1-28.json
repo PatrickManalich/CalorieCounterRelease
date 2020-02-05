@@ -1,0 +1,88 @@
+{
+  "dateTime": "2020-01-28T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 117.0,
+  "totalCarbs": 186.5,
+  "totalProtein": 122.0,
+  "totalCalories": 2287.0,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "servingSize": "Slice",
+          "fat": 17.0,
+          "carbs": 35.0,
+          "protein": 16.0,
+          "calories": 357.0,
+          "description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 68.0,
+        "carbs": 140.0,
+        "protein": 64.0,
+        "calories": 1428.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "759b2675-7fb5-4b55-ba47-fceda113f599",
+          "servingSize": "Bottle",
+          "fat": 0.0,
+          "carbs": 55.0,
+          "protein": 0.0,
+          "calories": 220.0,
+          "description": "Powerade orange 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 27.5,
+        "protein": 0.0,
+        "calories": 110.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7c209898-918c-4c54-bae0-f3e1bf0dd421",
+          "servingSize": "Meal",
+          "fat": 29.0,
+          "carbs": 10.0,
+          "protein": 28.0,
+          "calories": 413.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 29.0,
+        "carbs": 10.0,
+        "protein": 28.0,
+        "calories": 413.0
+      }
+    ]
+  }
+}
