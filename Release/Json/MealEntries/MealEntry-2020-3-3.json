@@ -1,0 +1,196 @@
+{
+  "dateTime": "2020-03-03T00:00:00-05:00",
+  "dayType": 2,
+  "totalFat": 85.4,
+  "totalCarbs": 305.9,
+  "totalProtein": 158.2,
+  "totalCalories": 2625.0,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "servingSize": "Tortilla",
+          "fat": 3.0,
+          "carbs": 26.0,
+          "protein": 4.0,
+          "calories": 147.0,
+          "description": "Mission flour tortillas soft taco",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 3.0,
+        "carbs": 26.0,
+        "protein": 4.0,
+        "calories": 147.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "servingSize": "Half Cup",
+          "fat": 16.0,
+          "carbs": 2.0,
+          "protein": 14.0,
+          "calories": 208.0,
+          "description": "Kroger queso quesadilla finely shredded cheese",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 16.0,
+        "carbs": 2.0,
+        "protein": 14.0,
+        "calories": 208.0
+      },
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 140.0,
+          "protein": 12.0,
+          "calories": 608.0,
+          "description": "Goya yellow rice spanish style family size",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 105.0,
+        "protein": 9.0,
+        "calories": 456.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "servingSize": "Breast",
+          "fat": 1.0,
+          "carbs": 0.0,
+          "protein": 25.0,
+          "calories": 109.0,
+          "description": "Simple Truth natural chicken breast",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 1.0,
+        "carbs": 0.0,
+        "protein": 25.0,
+        "calories": 109.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "1be10e3d-4020-4245-acf3-d318bcef6823",
+          "servingSize": "Bag",
+          "fat": 39.0,
+          "carbs": 30.0,
+          "protein": 15.0,
+          "calories": 531.0,
+          "description": "Dole premium kit ultimate caesar",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 39.0,
+        "carbs": 30.0,
+        "protein": 15.0,
+        "calories": 531.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "759b2675-7fb5-4b55-ba47-fceda113f599",
+          "servingSize": "Bottle",
+          "fat": 0.0,
+          "carbs": 55.0,
+          "protein": 0.0,
+          "calories": 220.0,
+          "description": "Powerade orange 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 27.5,
+        "protein": 0.0,
+        "calories": 110.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "7b96cc3a-8a8c-435d-a1ef-6dd571c00e9a",
+          "servingSize": "Meal",
+          "fat": 0.0,
+          "carbs": 23.0,
+          "protein": 2.0,
+          "calories": 100.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 46.0,
+        "protein": 4.0,
+        "calories": 200.0
+      }
+    ]
+  }
+}

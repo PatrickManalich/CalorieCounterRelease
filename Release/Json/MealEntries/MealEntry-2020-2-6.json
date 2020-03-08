@@ -1,0 +1,106 @@
+{
+  "dateTime": "2020-02-06T00:00:00-05:00",
+  "dayType": 2,
+  "totalFat": 185.5,
+  "totalCarbs": 151.8,
+  "totalProtein": 180.7,
+  "totalCalories": 2999.5,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 2.7,
+        "carbs": 30.2,
+        "protein": 16.1,
+        "calories": 209.5
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.1,
+        "mealSource": {
+          "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "servingSize": "Box",
+          "fat": 8.0,
+          "carbs": 336.0,
+          "protein": 56.0,
+          "calories": 1640.0,
+          "description": "Barilla farfalle box",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.8,
+        "carbs": 33.6,
+        "protein": 5.6,
+        "calories": 164.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "6c152cc2-5a4b-472c-a8ae-fae0a27078a7",
+          "servingSize": "Meal",
+          "fat": 24.0,
+          "carbs": 38.0,
+          "protein": 48.0,
+          "calories": 560.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 48.0,
+        "carbs": 76.0,
+        "protein": 96.0,
+        "calories": 1120.0
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "7ea35b15-bae0-45ba-9d1c-56b5836d06be",
+          "servingSize": "Meal",
+          "fat": 38.0,
+          "carbs": 1.0,
+          "protein": 11.0,
+          "calories": 390.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 114.0,
+        "carbs": 3.0,
+        "protein": 33.0,
+        "calories": 1170.0
+      }
+    ]
+  }
+}

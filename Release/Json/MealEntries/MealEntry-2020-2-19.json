@@ -1,0 +1,106 @@
+{
+  "dateTime": "2020-02-19T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 117.9,
+  "totalCarbs": 217.8,
+  "totalProtein": 139.5,
+  "totalCalories": 2490.3,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 15.0,
+        "carbs": 6.8,
+        "protein": 22.5,
+        "calories": 252.2
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 0.33,
+        "mealSource": {
+          "id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "servingSize": "Roast",
+          "fat": 80.0,
+          "carbs": 0.0,
+          "protein": 234.7,
+          "calories": 1658.8,
+          "description": "Simple Truth natural pork 32 oz",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 26.4,
+        "carbs": 0.0,
+        "protein": 77.5,
+        "calories": 547.6
+      },
+      {
+        "servingAmount": 4.0,
+        "mealSource": {
+          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "servingSize": "Roll",
+          "fat": 2.5,
+          "carbs": 14.0,
+          "protein": 3.0,
+          "calories": 90.5,
+          "description": "King's Hawaiian savory butter roll",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 10.0,
+        "carbs": 56.0,
+        "protein": 12.0,
+        "calories": 362.0
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 3.5,
+        "mealSource": {
+          "id": "faf792a6-070f-4833-a20b-d66128083c74",
+          "servingSize": "Meal",
+          "fat": 19.0,
+          "carbs": 38.0,
+          "protein": 7.8,
+          "calories": 354.2,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 66.5,
+        "carbs": 133.0,
+        "protein": 27.3,
+        "calories": 1239.7
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "6e07c33f-0928-4277-9bcb-2f8e2a568a8c",
+          "servingSize": "Meal",
+          "fat": 0.0,
+          "carbs": 22.0,
+          "protein": 0.2,
+          "calories": 88.8,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 22.0,
+        "protein": 0.2,
+        "calories": 88.8
+      }
+    ]
+  }
+}

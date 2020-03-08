@@ -1,0 +1,106 @@
+{
+  "dateTime": "2020-02-05T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 108.5,
+  "totalCarbs": 263.0,
+  "totalProtein": 132.0,
+  "totalCalories": 2556.5,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 20.0,
+        "carbs": 9.0,
+        "protein": 30.0,
+        "calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "servingSize": "Sandwich",
+          "fat": 19.0,
+          "carbs": 40.0,
+          "protein": 28.0,
+          "calories": 443.0,
+          "description": "Chic-fil-A chicken sandwich",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 19.0,
+        "carbs": 40.0,
+        "protein": 28.0,
+        "calories": 443.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "servingSize": "Shake",
+          "fat": 25.0,
+          "carbs": 86.0,
+          "protein": 15.0,
+          "calories": 629.0,
+          "description": "Chic-fil-A large vanilla shake",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 25.0,
+        "carbs": 86.0,
+        "protein": 15.0,
+        "calories": 629.0
+      },
+      {
+        "servingAmount": 3.0,
+        "mealSource": {
+          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "servingSize": "Roll",
+          "fat": 2.5,
+          "carbs": 14.0,
+          "protein": 3.0,
+          "calories": 90.5,
+          "description": "King's Hawaiian savory butter roll",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 7.5,
+        "carbs": 42.0,
+        "protein": 9.0,
+        "calories": 271.5
+      }
+    ],
+    "Custom": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "41dde0b2-9e35-4cbd-ba32-8bb882f04fb3",
+          "servingSize": "Meal",
+          "fat": 37.0,
+          "carbs": 86.0,
+          "protein": 50.0,
+          "calories": 877.0,
+          "description": "",
+          "mealSourceType": 2,
+          "archived": false
+        },
+        "fat": 37.0,
+        "carbs": 86.0,
+        "protein": 50.0,
+        "calories": 877.0
+      }
+    ]
+  }
+}

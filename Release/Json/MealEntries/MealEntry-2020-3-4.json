@@ -1,0 +1,159 @@
+{
+  "dateTime": "2020-03-04T00:00:00-05:00",
+  "dayType": 1,
+  "totalFat": 150.5,
+  "totalCarbs": 358.8,
+  "totalProtein": 138.5,
+  "totalCalories": 3343.7,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 15.0,
+        "carbs": 6.8,
+        "protein": 22.5,
+        "calories": 252.2
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "servingSize": "Sandwich",
+          "fat": 19.0,
+          "carbs": 40.0,
+          "protein": 28.0,
+          "calories": 443.0,
+          "description": "Chic-fil-A chicken sandwich",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 19.0,
+        "carbs": 40.0,
+        "protein": 28.0,
+        "calories": 443.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "servingSize": "Shake",
+          "fat": 25.0,
+          "carbs": 86.0,
+          "protein": 15.0,
+          "calories": 629.0,
+          "description": "Chic-fil-A large vanilla shake",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 25.0,
+        "carbs": 86.0,
+        "protein": 15.0,
+        "calories": 629.0
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "1f7d8135-8164-4c38-bfc8-644981d2f1ad",
+          "servingSize": "Container",
+          "fat": 18.0,
+          "carbs": 43.0,
+          "protein": 5.0,
+          "calories": 354.0,
+          "description": "Chic-fil-A medium fries",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 18.0,
+        "carbs": 43.0,
+        "protein": 5.0,
+        "calories": 354.0
+      },
+      {
+        "servingAmount": 0.25,
+        "mealSource": {
+          "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "servingSize": "Box",
+          "fat": 8.0,
+          "carbs": 336.0,
+          "protein": 56.0,
+          "calories": 1640.0,
+          "description": "Barilla farfalle box",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 2.0,
+        "carbs": 84.0,
+        "protein": 14.0,
+        "calories": 410.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "servingSize": "Container",
+          "fat": 92.0,
+          "carbs": 0.0,
+          "protein": 76.0,
+          "calories": 1132.0,
+          "description": "Kroger ground beef 80% lean meat and 20% fat",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 46.0,
+        "carbs": 0.0,
+        "protein": 38.0,
+        "calories": 566.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "7245f643-a8b7-48ce-a653-154eacbd6545",
+          "servingSize": "Jar",
+          "fat": 15.0,
+          "carbs": 130.0,
+          "protein": 20.0,
+          "calories": 735.0,
+          "description": "Prego italian sauce traditional 45 oz jar",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 7.5,
+        "carbs": 65.0,
+        "protein": 10.0,
+        "calories": 367.5
+      },
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "servingSize": "Slice",
+          "fat": 9.0,
+          "carbs": 17.0,
+          "protein": 3.0,
+          "calories": 161.0,
+          "description": "New York Bakery texas toast with real garlic",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 18.0,
+        "carbs": 34.0,
+        "protein": 6.0,
+        "calories": 322.0
+      }
+    ],
+    "Custom": []
+  }
+}
