@@ -1,0 +1,87 @@
+{
+  "dateTime": "2020-03-09T00:00:00-04:00",
+  "dayType": 2,
+  "totalFat": 68.4,
+  "totalCarbs": 215.2,
+  "totalProtein": 136.7,
+  "totalCalories": 2023.2,
+  "mealProportionsDictionary": {
+    "Small": [
+      {
+        "servingAmount": 0.75,
+        "mealSource": {
+          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "servingSize": "Bar",
+          "fat": 20.0,
+          "carbs": 9.0,
+          "protein": 30.0,
+          "calories": 336.0,
+          "description": "Clif builder's protein bar chocolate mint",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 15.0,
+        "carbs": 6.8,
+        "protein": 22.5,
+        "calories": 252.2
+      },
+      {
+        "servingAmount": 1.0,
+        "mealSource": {
+          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "servingSize": "Smoothie",
+          "fat": 5.4,
+          "carbs": 60.4,
+          "protein": 32.2,
+          "calories": 419.0,
+          "description": "The Classic protein smoothie",
+          "mealSourceType": 0,
+          "archived": false
+        },
+        "fat": 5.4,
+        "carbs": 60.4,
+        "protein": 32.2,
+        "calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "servingAmount": 2.0,
+        "mealSource": {
+          "id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
+          "servingSize": "Sandwich",
+          "fat": 24.0,
+          "carbs": 38.0,
+          "protein": 38.0,
+          "calories": 520.0,
+          "description": "Arby's double roast beef sandwich",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 48.0,
+        "carbs": 76.0,
+        "protein": 76.0,
+        "calories": 1040.0
+      },
+      {
+        "servingAmount": 0.5,
+        "mealSource": {
+          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "servingSize": "Cup",
+          "fat": 0.0,
+          "carbs": 144.0,
+          "protein": 12.0,
+          "calories": 624.0,
+          "description": "Mahatma extra long enriched rice",
+          "mealSourceType": 1,
+          "archived": false
+        },
+        "fat": 0.0,
+        "carbs": 72.0,
+        "protein": 6.0,
+        "calories": 312.0
+      }
+    ],
+    "Custom": []
+  }
+}
