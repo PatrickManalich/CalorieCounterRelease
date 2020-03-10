@@ -442,6 +442,17 @@
       "mealSourceType": 1,
       "archived": false
     },
+    "76892867-512e-4270-90b5-334eddba872e": {
+      "id": "76892867-512e-4270-90b5-334eddba872e",
+      "servingSize": "Bag",
+      "fat": 20.0,
+      "carbs": 160.0,
+      "protein": 16.0,
+      "calories": 884.0,
+      "description": "Idahoan buttery homestyle mashed potatoes family size",
+      "mealSourceType": 1,
+      "archived": false
+    },
     "0d63535d-9c90-4c74-b1f4-5436099aac76": {
       "id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
       "servingSize": "Box",
@@ -640,14 +651,14 @@
       "mealSourceType": 1,
       "archived": false
     },
-    "76892867-512e-4270-90b5-334eddba872e": {
-      "id": "76892867-512e-4270-90b5-334eddba872e",
-      "servingSize": "Bag",
-      "fat": 20.0,
-      "carbs": 160.0,
-      "protein": 16.0,
-      "calories": 884.0,
-      "description": "Idahoan buttery homestyle mashed potatoes family size",
+    "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0": {
+      "id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
+      "servingSize": "Sandwich",
+      "fat": 24.0,
+      "carbs": 38.0,
+      "protein": 38.0,
+      "calories": 520.0,
+      "description": "Arby's double roast beef sandwich",
       "mealSourceType": 1,
       "archived": false
     }
