@@ -123,6 +123,17 @@
     }
   },
   "Large": {
+    "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0": {
+      "id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
+      "servingSize": "Sandwich",
+      "fat": 24.0,
+      "carbs": 38.0,
+      "protein": 38.0,
+      "calories": 520.0,
+      "description": "Arby's double roast beef sandwich",
+      "mealSourceType": 1,
+      "archived": false
+    },
     "c6b7bfad-3f0f-4d83-abec-1c80777c9cd8": {
       "id": "c6b7bfad-3f0f-4d83-abec-1c80777c9cd8",
       "servingSize": "Ten Spears",
@@ -648,17 +659,6 @@
       "protein": 34.6,
       "calories": 286.0,
       "description": "Kroger bag of 0.8 lb of sliced turkey",
-      "mealSourceType": 1,
-      "archived": false
-    },
-    "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0": {
-      "id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
-      "servingSize": "Sandwich",
-      "fat": 24.0,
-      "carbs": 38.0,
-      "protein": 38.0,
-      "calories": 520.0,
-      "description": "Arby's double roast beef sandwich",
       "mealSourceType": 1,
       "archived": false
     }
