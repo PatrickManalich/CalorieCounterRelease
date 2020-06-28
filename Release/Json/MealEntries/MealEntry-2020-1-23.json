@@ -1,159 +1,159 @@
 {
-  "dateTime": "2020-01-23T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 76.9,
-  "totalCarbs": 145.5,
-  "totalProtein": 152.1,
-  "totalCalories": 1882.5,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-01-23T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 76.9,
+  "TotalCarbs": 145.5,
+  "TotalProtein": 152.1,
+  "TotalCalories": 1882.5,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "0d441937-3dbe-441b-a7c0-160b38bb5a26",
-          "servingSize": "Egg",
-          "fat": 4.8,
-          "carbs": 0.4,
-          "protein": 6.3,
-          "calories": 70.0,
-          "description": "General egg",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "0d441937-3dbe-441b-a7c0-160b38bb5a26",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 19.2,
-        "carbs": 1.6,
-        "protein": 25.2,
-        "calories": 280.0
+        "Fat": 19.2,
+        "Carbs": 1.6,
+        "Protein": 25.2,
+        "Calories": 280.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 0.33,
-        "mealSource": {
-          "id": "76892867-512e-4270-90b5-334eddba872e",
-          "servingSize": "Bag",
-          "fat": 20.0,
-          "carbs": 160.0,
-          "protein": 16.0,
-          "calories": 884.0,
-          "description": "Idahoan buttery homestyle mashed potatoes family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "76892867-512e-4270-90b5-334eddba872e",
+          "ServingSize": "Bag",
+          "Fat": 20.0,
+          "Carbs": 160.0,
+          "Protein": 16.0,
+          "Calories": 884.0,
+          "Description": "Idahoan buttery homestyle mashed potatoes family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 6.6,
-        "carbs": 52.8,
-        "protein": 5.3,
-        "calories": 291.8
+        "Fat": 6.6,
+        "Carbs": 52.8,
+        "Protein": 5.3,
+        "Calories": 291.8
       },
       {
-        "servingAmount": 0.25,
-        "mealSource": {
-          "id": "d1351318-c5b3-405a-add8-76e7208140c8",
-          "servingSize": "Bag",
-          "fat": 12.6,
-          "carbs": 2.7,
-          "protein": 55.8,
-          "calories": 347.4,
-          "description": "Kroger bag of 0.8 lb of sliced ham",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "d1351318-c5b3-405a-add8-76e7208140c8",
+          "ServingSize": "Bag",
+          "Fat": 12.6,
+          "Carbs": 2.7,
+          "Protein": 55.8,
+          "Calories": 347.4,
+          "Description": "Kroger bag of 0.8 lb of sliced ham",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 3.2,
-        "carbs": 0.7,
-        "protein": 13.9,
-        "calories": 87.2
+        "Fat": 3.2,
+        "Carbs": 0.7,
+        "Protein": 13.9,
+        "Calories": 87.2
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "4ecd1b91-4118-4df7-9777-26557f63340c",
-          "servingSize": "Half Cup",
-          "fat": 16.0,
-          "carbs": 2.0,
-          "protein": 14.0,
-          "calories": 208.0,
-          "description": "Kroger queso quesadilla finely shredded cheese",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "ServingSize": "Half Cup",
+          "Fat": 16.0,
+          "Carbs": 2.0,
+          "Protein": 14.0,
+          "Calories": 208.0,
+          "Description": "Kroger queso quesadilla finely shredded cheese",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 16.0,
-        "carbs": 2.0,
-        "protein": 14.0,
-        "calories": 208.0
+        "Fat": 16.0,
+        "Carbs": 2.0,
+        "Protein": 14.0,
+        "Calories": 208.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 0.25,
-        "mealSource": {
-          "id": "e953791c-89fb-4cdd-bc84-d927f3cc2aac",
-          "servingSize": "Meal",
-          "fat": 22.0,
-          "carbs": 76.0,
-          "protein": 26.0,
-          "calories": 606.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "e953791c-89fb-4cdd-bc84-d927f3cc2aac",
+          "ServingSize": "Meal",
+          "Fat": 22.0,
+          "Carbs": 76.0,
+          "Protein": 26.0,
+          "Calories": 606.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 5.5,
-        "carbs": 19.0,
-        "protein": 6.5,
-        "calories": 151.5
+        "Fat": 5.5,
+        "Carbs": 19.0,
+        "Protein": 6.5,
+        "Calories": 151.5
       }
     ]
   }

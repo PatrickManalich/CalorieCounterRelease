@@ -1,102 +1,102 @@
 {
-  "dateTime": "2019-10-05T00:00:00-04:00",
-  "dayType": 1,
-  "totalFat": 51.5,
-  "totalCarbs": 170.7,
-  "totalProtein": 58.0,
-  "totalCalories": 1378.3,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-10-05T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 51.5,
+  "TotalCarbs": 278.7,
+  "TotalProtein": 67.0,
+  "TotalCalories": 1846.3,
+  "MealProportionsDictionary": {
     "Small": [],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
-          "servingSize": "Sandwich",
-          "fat": 19.0,
-          "carbs": 40.0,
-          "protein": 28.0,
-          "calories": 443.0,
-          "description": "Chic-fil-A chicken sandwich",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "ServingSize": "Sandwich",
+          "Fat": 19.0,
+          "Carbs": 40.0,
+          "Protein": 28.0,
+          "Calories": 443.0,
+          "Description": "Chic-fil-A chicken sandwich",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 19.0,
-        "carbs": 40.0,
-        "protein": 28.0,
-        "calories": 443.0
+        "Fat": 19.0,
+        "Carbs": 40.0,
+        "Protein": 28.0,
+        "Calories": 443.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
-          "servingSize": "Shake",
-          "fat": 25.0,
-          "carbs": 86.0,
-          "protein": 15.0,
-          "calories": 629.0,
-          "description": "Chic-fil-A large vanilla shake",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "ServingSize": "Shake",
+          "Fat": 25.0,
+          "Carbs": 86.0,
+          "Protein": 15.0,
+          "Calories": 629.0,
+          "Description": "Chic-fil-A large vanilla shake",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 25.0,
-        "carbs": 86.0,
-        "protein": 15.0,
-        "calories": 629.0
+        "Fat": 25.0,
+        "Carbs": 86.0,
+        "Protein": 15.0,
+        "Calories": 629.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 144.0,
-          "protein": 12.0,
-          "calories": 624.0,
-          "description": "Mahatma extra long enriched rice",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 144.0,
-        "protein": 12.0,
-        "calories": 624.0
+        "Fat": 0.0,
+        "Carbs": 144.0,
+        "Protein": 12.0,
+        "Calories": 624.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
-          "servingSize": "Half Cup",
-          "fat": 0.3,
-          "carbs": 8.1,
-          "protein": 2.5,
-          "calories": 45.1,
-          "description": "General peas and carrots",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "ServingSize": "Half Cup",
+          "Fat": 0.3,
+          "Carbs": 8.1,
+          "Protein": 2.5,
+          "Calories": 45.1,
+          "Description": "General peas and carrots",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.3,
-        "carbs": 8.1,
-        "protein": 2.5,
-        "calories": 45.1
+        "Fat": 0.3,
+        "Carbs": 8.1,
+        "Protein": 2.5,
+        "Calories": 45.1
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
-          "servingSize": "Egg",
-          "fat": 4.8,
-          "carbs": 0.4,
-          "protein": 6.3,
-          "calories": 70.0,
-          "description": "General egg",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 7.2,
-        "carbs": 0.6,
-        "protein": 9.5,
-        "calories": 105.2
+        "Fat": 7.2,
+        "Carbs": 0.6,
+        "Protein": 9.5,
+        "Calories": 105.2
       }
     ],
     "Custom": []

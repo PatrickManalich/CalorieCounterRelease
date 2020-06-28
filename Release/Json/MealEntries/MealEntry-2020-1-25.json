@@ -1,86 +1,86 @@
 {
-  "dateTime": "2020-01-25T00:00:00-05:00",
-  "dayType": 1,
-  "totalFat": 88.5,
-  "totalCarbs": 266.0,
-  "totalProtein": 86.0,
-  "totalCalories": 2204.5,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-01-25T00:00:00-05:00",
+  "DayType": 1,
+  "TotalFat": 88.5,
+  "TotalCarbs": 266.0,
+  "TotalProtein": 86.0,
+  "TotalCalories": 2204.5,
+  "MealProportionsDictionary": {
     "Small": [],
     "Large": [
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 58.5,
-        "protein": 0.0,
-        "calories": 234.0
+        "Fat": 0.0,
+        "Carbs": 58.5,
+        "Protein": 0.0,
+        "Calories": 234.0
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
-          "servingSize": "Slice",
-          "fat": 17.0,
-          "carbs": 35.0,
-          "protein": 16.0,
-          "calories": 357.0,
-          "description": "Slice of large pepperoni magnifico pizza from Marco's",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 68.0,
-        "carbs": 140.0,
-        "protein": 64.0,
-        "calories": 1428.0
+        "Fat": 68.0,
+        "Carbs": 140.0,
+        "Protein": 64.0,
+        "Calories": 1428.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "c8fbfbf7-23c0-4303-b819-27ea971fb167",
-          "servingSize": "Meal",
-          "fat": 29.0,
-          "carbs": 39.0,
-          "protein": 30.0,
-          "calories": 537.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "c8fbfbf7-23c0-4303-b819-27ea971fb167",
+          "ServingSize": "Meal",
+          "Fat": 29.0,
+          "Carbs": 39.0,
+          "Protein": 30.0,
+          "Calories": 537.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 14.5,
-        "carbs": 19.5,
-        "protein": 15.0,
-        "calories": 268.5
+        "Fat": 14.5,
+        "Carbs": 19.5,
+        "Protein": 15.0,
+        "Calories": 268.5
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "151bd02c-a771-4c66-8326-23d42263d5b4",
-          "servingSize": "Meal",
-          "fat": 12.0,
-          "carbs": 96.0,
-          "protein": 14.0,
-          "calories": 548.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "151bd02c-a771-4c66-8326-23d42263d5b4",
+          "ServingSize": "Meal",
+          "Fat": 12.0,
+          "Carbs": 96.0,
+          "Protein": 14.0,
+          "Calories": 548.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 6.0,
-        "carbs": 48.0,
-        "protein": 7.0,
-        "calories": 274.0
+        "Fat": 6.0,
+        "Carbs": 48.0,
+        "Protein": 7.0,
+        "Calories": 274.0
       }
     ]
   }

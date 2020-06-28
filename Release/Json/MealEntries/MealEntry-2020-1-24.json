@@ -1,158 +1,158 @@
 {
-  "dateTime": "2020-01-24T00:00:00-05:00",
-  "dayType": 1,
-  "totalFat": 89.1,
-  "totalCarbs": 417.5,
-  "totalProtein": 107.0,
-  "totalCalories": 2899.9,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-01-24T00:00:00-05:00",
+  "DayType": 1,
+  "TotalFat": 89.1,
+  "TotalCarbs": 417.5,
+  "TotalProtein": 107.0,
+  "TotalCalories": 2899.9,
+  "MealProportionsDictionary": {
     "Small": [],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "4ecd1b91-4118-4df7-9777-26557f63340c",
-          "servingSize": "Half Cup",
-          "fat": 16.0,
-          "carbs": 2.0,
-          "protein": 14.0,
-          "calories": 208.0,
-          "description": "Kroger queso quesadilla finely shredded cheese",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "ServingSize": "Half Cup",
+          "Fat": 16.0,
+          "Carbs": 2.0,
+          "Protein": 14.0,
+          "Calories": 208.0,
+          "Description": "Kroger queso quesadilla finely shredded cheese",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 16.0,
-        "carbs": 2.0,
-        "protein": 14.0,
-        "calories": 208.0
+        "Fat": 16.0,
+        "Carbs": 2.0,
+        "Protein": 14.0,
+        "Calories": 208.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
-          "servingSize": "Tortilla",
-          "fat": 3.0,
-          "carbs": 26.0,
-          "protein": 4.0,
-          "calories": 147.0,
-          "description": "Mission flour tortillas soft taco",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "ServingSize": "Tortilla",
+          "Fat": 3.0,
+          "Carbs": 26.0,
+          "Protein": 4.0,
+          "Calories": 147.0,
+          "Description": "Mission flour tortillas soft taco",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 3.0,
-        "carbs": 26.0,
-        "protein": 4.0,
-        "calories": 147.0
+        "Fat": 3.0,
+        "Carbs": 26.0,
+        "Protein": 4.0,
+        "Calories": 147.0
       },
       {
-        "servingAmount": 0.33,
-        "mealSource": {
-          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 144.0,
-          "protein": 12.0,
-          "calories": 624.0,
-          "description": "Mahatma extra long enriched rice",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 47.5,
-        "protein": 4.0,
-        "calories": 206.0
+        "Fat": 0.0,
+        "Carbs": 47.5,
+        "Protein": 4.0,
+        "Calories": 206.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "0f2f3429-19c1-44a0-9bb5-8038253b4a04",
-          "servingSize": "Meal",
-          "fat": 18.0,
-          "carbs": 46.0,
-          "protein": 12.0,
-          "calories": 394.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "0f2f3429-19c1-44a0-9bb5-8038253b4a04",
+          "ServingSize": "Meal",
+          "Fat": 18.0,
+          "Carbs": 46.0,
+          "Protein": 12.0,
+          "Calories": 394.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 54.0,
-        "carbs": 138.0,
-        "protein": 36.0,
-        "calories": 1182.0
+        "Fat": 54.0,
+        "Carbs": 138.0,
+        "Protein": 36.0,
+        "Calories": 1182.0
       },
       {
-        "servingAmount": 6.0,
-        "mealSource": {
-          "id": "2fafd699-8416-43ac-a815-340a46d25b94",
-          "servingSize": "Meal",
-          "fat": 1.7,
-          "carbs": 12.0,
-          "protein": 2.0,
-          "calories": 71.3,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 6.0,
+        "MealSource": {
+          "Id": "2fafd699-8416-43ac-a815-340a46d25b94",
+          "ServingSize": "Meal",
+          "Fat": 1.7,
+          "Carbs": 12.0,
+          "Protein": 2.0,
+          "Calories": 71.3,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 10.2,
-        "carbs": 72.0,
-        "protein": 12.0,
-        "calories": 427.8
+        "Fat": 10.2,
+        "Carbs": 72.0,
+        "Protein": 12.0,
+        "Calories": 427.8
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "b0e44e30-f55e-4fb8-81f3-3b1a7fa7ed51",
-          "servingSize": "Meal",
-          "fat": 4.1,
-          "carbs": 36.0,
-          "protein": 8.8,
-          "calories": 216.1,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "b0e44e30-f55e-4fb8-81f3-3b1a7fa7ed51",
+          "ServingSize": "Meal",
+          "Fat": 4.1,
+          "Carbs": 36.0,
+          "Protein": 8.8,
+          "Calories": 216.1,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 4.1,
-        "carbs": 36.0,
-        "protein": 8.8,
-        "calories": 216.1
+        "Fat": 4.1,
+        "Carbs": 36.0,
+        "Protein": 8.8,
+        "Calories": 216.1
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "86d35a01-c81d-476c-be3c-2491ab3d9533",
-          "servingSize": "Meal",
-          "fat": 0.2,
-          "carbs": 24.0,
-          "protein": 0.8,
-          "calories": 101.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "86d35a01-c81d-476c-be3c-2491ab3d9533",
+          "ServingSize": "Meal",
+          "Fat": 0.2,
+          "Carbs": 24.0,
+          "Protein": 0.8,
+          "Calories": 101.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 0.8,
-        "carbs": 96.0,
-        "protein": 3.2,
-        "calories": 404.0
+        "Fat": 0.8,
+        "Carbs": 96.0,
+        "Protein": 3.2,
+        "Calories": 404.0
       }
     ]
   }

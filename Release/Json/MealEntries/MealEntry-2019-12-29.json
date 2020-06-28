@@ -1,193 +1,193 @@
 {
-  "dateTime": "2019-12-29T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 100.1,
-  "totalCarbs": 362.9,
-  "totalProtein": 141.1,
-  "totalCalories": 2916.9,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-12-29T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 100.1,
+  "TotalCarbs": 362.9,
+  "TotalProtein": 141.1,
+  "TotalCalories": 2916.9,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "0d441937-3dbe-441b-a7c0-160b38bb5a26",
-          "servingSize": "Egg",
-          "fat": 4.8,
-          "carbs": 0.4,
-          "protein": 6.3,
-          "calories": 70.0,
-          "description": "General egg",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "0d441937-3dbe-441b-a7c0-160b38bb5a26",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 14.4,
-        "carbs": 1.2,
-        "protein": 18.9,
-        "calories": 210.0
+        "Fat": 14.4,
+        "Carbs": 1.2,
+        "Protein": 18.9,
+        "Calories": 210.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "76892867-512e-4270-90b5-334eddba872e",
-          "servingSize": "Bag",
-          "fat": 20.0,
-          "carbs": 160.0,
-          "protein": 16.0,
-          "calories": 884.0,
-          "description": "Idahoan buttery homestyle mashed potatoes family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "76892867-512e-4270-90b5-334eddba872e",
+          "ServingSize": "Bag",
+          "Fat": 20.0,
+          "Carbs": 160.0,
+          "Protein": 16.0,
+          "Calories": 884.0,
+          "Description": "Idahoan buttery homestyle mashed potatoes family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 15.0,
-        "carbs": 120.0,
-        "protein": 12.0,
-        "calories": 663.0
+        "Fat": 15.0,
+        "Carbs": 120.0,
+        "Protein": 12.0,
+        "Calories": 663.0
       },
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 140.0,
-          "protein": 12.0,
-          "calories": 608.0,
-          "description": "Goya yellow rice spanish style family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 140.0,
+          "Protein": 12.0,
+          "Calories": 608.0,
+          "Description": "Goya yellow rice spanish style family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 105.0,
-        "protein": 9.0,
-        "calories": 456.0
+        "Fat": 0.0,
+        "Carbs": 105.0,
+        "Protein": 9.0,
+        "Calories": 456.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "84258f6d-800a-4473-9db0-13412b864cc8",
-          "servingSize": "Container",
-          "fat": 92.0,
-          "carbs": 0.0,
-          "protein": 76.0,
-          "calories": 1132.0,
-          "description": "Kroger ground beef 80% lean meat and 20% fat",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "ServingSize": "Container",
+          "Fat": 92.0,
+          "Carbs": 0.0,
+          "Protein": 76.0,
+          "Calories": 1132.0,
+          "Description": "Kroger ground beef 80% lean meat and 20% fat",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 46.0,
-        "carbs": 0.0,
-        "protein": 38.0,
-        "calories": 566.0
+        "Fat": 46.0,
+        "Carbs": 0.0,
+        "Protein": 38.0,
+        "Calories": 566.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
-          "servingSize": "Pepper",
-          "fat": 0.2,
-          "carbs": 7.6,
-          "protein": 1.0,
-          "calories": 36.2,
-          "description": "General green bell pepper",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "ServingSize": "Pepper",
+          "Fat": 0.2,
+          "Carbs": 7.6,
+          "Protein": 1.0,
+          "Calories": 36.2,
+          "Description": "General green bell pepper",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.1,
-        "carbs": 3.8,
-        "protein": 0.5,
-        "calories": 18.1
+        "Fat": 0.1,
+        "Carbs": 3.8,
+        "Protein": 0.5,
+        "Calories": 18.1
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "60a634a6-e431-4cde-8a19-63c50747c4ee",
-          "servingSize": "Can",
-          "fat": 4.0,
-          "carbs": 0.0,
-          "protein": 1.0,
-          "calories": 40.0,
-          "description": "Goya tomato sauce spanish style",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "60a634a6-e431-4cde-8a19-63c50747c4ee",
+          "ServingSize": "Can",
+          "Fat": 4.0,
+          "Carbs": 0.0,
+          "Protein": 1.0,
+          "Calories": 40.0,
+          "Description": "Goya tomato sauce spanish style",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 4.0,
-        "carbs": 0.0,
-        "protein": 1.0,
-        "calories": 40.0
+        "Fat": 4.0,
+        "Carbs": 0.0,
+        "Protein": 1.0,
+        "Calories": 40.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 39.0,
-        "protein": 0.0,
-        "calories": 156.0
+        "Fat": 0.0,
+        "Carbs": 39.0,
+        "Protein": 0.0,
+        "Calories": 156.0
       },
       {
-        "servingAmount": 0.25,
-        "mealSource": {
-          "id": "318d6664-2aa2-4377-a9ca-c098ecf8b16f",
-          "servingSize": "Container",
-          "fat": 57.0,
-          "carbs": 134.0,
-          "protein": 18.0,
-          "calories": 1121.0,
-          "description": "Ben & Jerry's half baked",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "318d6664-2aa2-4377-a9ca-c098ecf8b16f",
+          "ServingSize": "Container",
+          "Fat": 57.0,
+          "Carbs": 134.0,
+          "Protein": 18.0,
+          "Calories": 1121.0,
+          "Description": "Ben & Jerry's half baked",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 14.2,
-        "carbs": 33.5,
-        "protein": 4.5,
-        "calories": 279.8
+        "Fat": 14.2,
+        "Carbs": 33.5,
+        "Protein": 4.5,
+        "Calories": 279.8
       }
     ],
     "Custom": []

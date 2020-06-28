@@ -1,141 +1,141 @@
 {
-  "dateTime": "2019-10-13T00:00:00-04:00",
-  "dayType": 1,
-  "totalFat": 114.3,
-  "totalCarbs": 305.0,
-  "totalProtein": 113.9,
-  "totalCalories": 2704.3,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-10-13T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 114.3,
+  "TotalCarbs": 305.0,
+  "TotalProtein": 113.9,
+  "TotalCalories": 2704.3,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
-          "servingSize": "Bagel",
-          "fat": 3.5,
-          "carbs": 53.0,
-          "protein": 9.0,
-          "calories": 279.5,
-          "description": "Thomas everything bagel",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "ServingSize": "Bagel",
+          "Fat": 3.5,
+          "Carbs": 53.0,
+          "Protein": 9.0,
+          "Calories": 279.5,
+          "Description": "Thomas everything bagel",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 3.5,
-        "carbs": 53.0,
-        "protein": 9.0,
-        "calories": 279.5
+        "Fat": 3.5,
+        "Carbs": 53.0,
+        "Protein": 9.0,
+        "Calories": 279.5
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "f89c3f26-9a89-4b4e-a0fa-29353551e9a2",
-          "servingSize": "Sandwich",
-          "fat": 16.0,
-          "carbs": 8.0,
-          "protein": 7.0,
-          "calories": 204.0,
-          "description": "Two tbsp. of Jif creamy peanut butter",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f89c3f26-9a89-4b4e-a0fa-29353551e9a2",
+          "ServingSize": "Sandwich",
+          "Fat": 16.0,
+          "Carbs": 8.0,
+          "Protein": 7.0,
+          "Calories": 204.0,
+          "Description": "Two tbsp. of Jif creamy peanut butter",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 16.0,
-        "carbs": 8.0,
-        "protein": 7.0,
-        "calories": 204.0
+        "Fat": 16.0,
+        "Carbs": 8.0,
+        "Protein": 7.0,
+        "Calories": 204.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "db074714-05dd-44f0-a5fe-11ecba8a208b",
-          "servingSize": "Fruit",
-          "fat": 0.3,
-          "carbs": 25.0,
-          "protein": 0.5,
-          "calories": 104.7,
-          "description": "General apple",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "db074714-05dd-44f0-a5fe-11ecba8a208b",
+          "ServingSize": "Fruit",
+          "Fat": 0.3,
+          "Carbs": 25.0,
+          "Protein": 0.5,
+          "Calories": 104.7,
+          "Description": "General apple",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 0.3,
-        "carbs": 25.0,
-        "protein": 0.5,
-        "calories": 104.7
+        "Fat": 0.3,
+        "Carbs": 25.0,
+        "Protein": 0.5,
+        "Calories": 104.7
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 58.5,
-        "protein": 0.0,
-        "calories": 234.0
+        "Fat": 0.0,
+        "Carbs": 58.5,
+        "Protein": 0.0,
+        "Calories": 234.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "496ffa02-5c1f-43a3-b2b3-1ee642158433",
-          "servingSize": "Meal",
-          "fat": 60.0,
-          "carbs": 84.0,
-          "protein": 47.0,
-          "calories": 1064.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "496ffa02-5c1f-43a3-b2b3-1ee642158433",
+          "ServingSize": "Meal",
+          "Fat": 60.0,
+          "Carbs": 84.0,
+          "Protein": 47.0,
+          "Calories": 1064.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 60.0,
-        "carbs": 84.0,
-        "protein": 47.0,
-        "calories": 1064.0
+        "Fat": 60.0,
+        "Carbs": 84.0,
+        "Protein": 47.0,
+        "Calories": 1064.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "caa6bccb-07ba-4a28-8cbc-df8fc1fe78de",
-          "servingSize": "Meal",
-          "fat": 55.0,
-          "carbs": 124.0,
-          "protein": 97.0,
-          "calories": 1379.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "caa6bccb-07ba-4a28-8cbc-df8fc1fe78de",
+          "ServingSize": "Meal",
+          "Fat": 55.0,
+          "Carbs": 124.0,
+          "Protein": 97.0,
+          "Calories": 1379.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 27.5,
-        "carbs": 62.0,
-        "protein": 48.5,
-        "calories": 689.5
+        "Fat": 27.5,
+        "Carbs": 62.0,
+        "Protein": 48.5,
+        "Calories": 689.5
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "08e10a23-2bc6-48f1-b420-812d6dacc888",
-          "servingSize": "Meal",
-          "fat": 14.0,
-          "carbs": 29.0,
-          "protein": 3.7,
-          "calories": 256.8,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "08e10a23-2bc6-48f1-b420-812d6dacc888",
+          "ServingSize": "Meal",
+          "Fat": 14.0,
+          "Carbs": 29.0,
+          "Protein": 3.7,
+          "Calories": 256.8,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 7.0,
-        "carbs": 14.5,
-        "protein": 1.9,
-        "calories": 128.6
+        "Fat": 7.0,
+        "Carbs": 14.5,
+        "Protein": 1.9,
+        "Calories": 128.6
       }
     ]
   }

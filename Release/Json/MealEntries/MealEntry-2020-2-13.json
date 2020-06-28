@@ -1,104 +1,104 @@
 {
-  "dateTime": "2020-02-13T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 88.9,
-  "totalCarbs": 266.4,
-  "totalProtein": 149.4,
-  "totalCalories": 2463.3,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-02-13T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 88.9,
+  "TotalCarbs": 266.4,
+  "TotalProtein": 149.4,
+  "TotalCalories": 2463.3,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       },
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 15.0,
-        "carbs": 6.8,
-        "protein": 22.5,
-        "calories": 252.2
+        "Fat": 15.0,
+        "Carbs": 6.8,
+        "Protein": 22.5,
+        "Calories": 252.2
       }
     ],
     "Large": [],
     "Custom": [
       {
-        "servingAmount": 3.5,
-        "mealSource": {
-          "id": "91665f0d-fd30-4ebf-90eb-19705c714164",
-          "servingSize": "Meal",
-          "fat": 6.0,
-          "carbs": 39.0,
-          "protein": 16.0,
-          "calories": 274.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 3.5,
+        "MealSource": {
+          "Id": "91665f0d-fd30-4ebf-90eb-19705c714164",
+          "ServingSize": "Meal",
+          "Fat": 6.0,
+          "Carbs": 39.0,
+          "Protein": 16.0,
+          "Calories": 274.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 21.0,
-        "carbs": 136.5,
-        "protein": 56.0,
-        "calories": 959.0
+        "Fat": 21.0,
+        "Carbs": 136.5,
+        "Protein": 56.0,
+        "Calories": 959.0
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "4cf5e429-3a33-485f-90e3-154c8eb27711",
-          "servingSize": "Meal",
-          "fat": 19.0,
-          "carbs": 38.0,
-          "protein": 7.8,
-          "calories": 354.2,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "4cf5e429-3a33-485f-90e3-154c8eb27711",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 38.0,
+          "Protein": 7.8,
+          "Calories": 354.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 28.5,
-        "carbs": 57.0,
-        "protein": 11.7,
-        "calories": 531.3
+        "Fat": 28.5,
+        "Carbs": 57.0,
+        "Protein": 11.7,
+        "Calories": 531.3
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "727e41cb-6c4d-44c9-92f1-c924b2973667",
-          "servingSize": "Meal",
-          "fat": 19.0,
-          "carbs": 5.7,
-          "protein": 27.0,
-          "calories": 301.8,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "727e41cb-6c4d-44c9-92f1-c924b2973667",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 5.7,
+          "Protein": 27.0,
+          "Calories": 301.8,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 19.0,
-        "carbs": 5.7,
-        "protein": 27.0,
-        "calories": 301.8
+        "Fat": 19.0,
+        "Carbs": 5.7,
+        "Protein": 27.0,
+        "Calories": 301.8
       }
     ]
   }

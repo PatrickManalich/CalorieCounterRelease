@@ -1,105 +1,105 @@
 {
-  "dateTime": "2019-07-05T00:00:00-04:00",
-  "dayType": 1,
-  "totalFat": 80.3,
-  "totalCarbs": 206.3,
-  "totalProtein": 78.0,
-  "totalCalories": 1859.9,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-07-05T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 80.3,
+  "TotalCarbs": 241.9,
+  "TotalProtein": 81.0,
+  "TotalCalories": 2014.3,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 0.33,
-        "mealSource": {
-          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 144.0,
-          "protein": 12.0,
-          "calories": 624.0,
-          "description": "Mahatma extra long enriched rice",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 47.5,
-        "protein": 4.0,
-        "calories": 206.0
+        "Fat": 0.0,
+        "Carbs": 47.5,
+        "Protein": 4.0,
+        "Calories": 206.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "591e1757-d988-487e-984f-e20a865f91f2",
-          "servingSize": "Pizza",
-          "fat": 100.0,
-          "carbs": 120.0,
-          "protein": 70.0,
-          "calories": 1660.0,
-          "description": "Screamin' Sicilian holy pepperoni pizza",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "591e1757-d988-487e-984f-e20a865f91f2",
+          "ServingSize": "Pizza",
+          "Fat": 100.0,
+          "Carbs": 120.0,
+          "Protein": 70.0,
+          "Calories": 1660.0,
+          "Description": "Screamin' Sicilian holy pepperoni pizza",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 50.0,
-        "carbs": 60.0,
-        "protein": 35.0,
-        "calories": 830.0
+        "Fat": 50.0,
+        "Carbs": 60.0,
+        "Protein": 35.0,
+        "Calories": 830.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "aa9c66ca-cfb3-4410-b695-eddf65f9078e",
-          "servingSize": "Meal",
-          "fat": 10.3,
-          "carbs": 47.4,
-          "protein": 12.0,
-          "calories": 330.3,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "aa9c66ca-cfb3-4410-b695-eddf65f9078e",
+          "ServingSize": "Meal",
+          "Fat": 10.3,
+          "Carbs": 47.4,
+          "Protein": 12.0,
+          "Calories": 330.3,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 10.3,
-        "carbs": 47.4,
-        "protein": 12.0,
-        "calories": 330.3
+        "Fat": 10.3,
+        "Carbs": 47.4,
+        "Protein": 12.0,
+        "Calories": 330.3
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "0266e850-74b1-4297-a01b-3d63a3d46ac3",
-          "servingSize": "Meal",
-          "fat": 0.0,
-          "carbs": 78.0,
-          "protein": 0.0,
-          "calories": 312.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0266e850-74b1-4297-a01b-3d63a3d46ac3",
+          "ServingSize": "Meal",
+          "Fat": 0.0,
+          "Carbs": 78.0,
+          "Protein": 0.0,
+          "Calories": 312.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 78.0,
-        "protein": 0.0,
-        "calories": 312.0
+        "Fat": 0.0,
+        "Carbs": 78.0,
+        "Protein": 0.0,
+        "Calories": 312.0
       }
     ]
   }

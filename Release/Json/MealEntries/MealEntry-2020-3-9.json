@@ -1,85 +1,85 @@
 {
-  "dateTime": "2020-03-09T00:00:00-04:00",
-  "dayType": 2,
-  "totalFat": 68.4,
-  "totalCarbs": 215.2,
-  "totalProtein": 136.7,
-  "totalCalories": 2023.2,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-03-09T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 68.4,
+  "TotalCarbs": 215.2,
+  "TotalProtein": 136.7,
+  "TotalCalories": 2023.2,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 15.0,
-        "carbs": 6.8,
-        "protein": 22.5,
-        "calories": 252.2
+        "Fat": 15.0,
+        "Carbs": 6.8,
+        "Protein": 22.5,
+        "Calories": 252.2
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 2.0,
-        "mealSource": {
-          "id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
-          "servingSize": "Sandwich",
-          "fat": 24.0,
-          "carbs": 38.0,
-          "protein": 38.0,
-          "calories": 520.0,
-          "description": "Arby's double roast beef sandwich",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "fb5b5c14-e7f9-4140-89dc-7b3afa4150c0",
+          "ServingSize": "Sandwich",
+          "Fat": 24.0,
+          "Carbs": 38.0,
+          "Protein": 38.0,
+          "Calories": 520.0,
+          "Description": "Arby's double roast beef sandwich",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 48.0,
-        "carbs": 76.0,
-        "protein": 76.0,
-        "calories": 1040.0
+        "Fat": 48.0,
+        "Carbs": 76.0,
+        "Protein": 76.0,
+        "Calories": 1040.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 144.0,
-          "protein": 12.0,
-          "calories": 624.0,
-          "description": "Mahatma extra long enriched rice",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 72.0,
-        "protein": 6.0,
-        "calories": 312.0
+        "Fat": 0.0,
+        "Carbs": 72.0,
+        "Protein": 6.0,
+        "Calories": 312.0
       }
     ],
     "Custom": []

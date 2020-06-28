@@ -1,122 +1,122 @@
 {
-  "dateTime": "2019-11-09T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 71.0,
-  "totalCarbs": 259.5,
-  "totalProtein": 75.2,
-  "totalCalories": 1977.8,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-11-09T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 71.0,
+  "TotalCarbs": 259.5,
+  "TotalProtein": 75.2,
+  "TotalCalories": 1977.8,
+  "MealProportionsDictionary": {
     "Small": [],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
-          "servingSize": "Tortilla",
-          "fat": 3.0,
-          "carbs": 26.0,
-          "protein": 4.0,
-          "calories": 147.0,
-          "description": "Mission flour tortillas soft taco",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "ServingSize": "Tortilla",
+          "Fat": 3.0,
+          "Carbs": 26.0,
+          "Protein": 4.0,
+          "Calories": 147.0,
+          "Description": "Mission flour tortillas soft taco",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 3.0,
-        "carbs": 26.0,
-        "protein": 4.0,
-        "calories": 147.0
+        "Fat": 3.0,
+        "Carbs": 26.0,
+        "Protein": 4.0,
+        "Calories": 147.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "4ecd1b91-4118-4df7-9777-26557f63340c",
-          "servingSize": "Half Cup",
-          "fat": 16.0,
-          "carbs": 2.0,
-          "protein": 14.0,
-          "calories": 208.0,
-          "description": "Kroger queso quesadilla finely shredded cheese",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "ServingSize": "Half Cup",
+          "Fat": 16.0,
+          "Carbs": 2.0,
+          "Protein": 14.0,
+          "Calories": 208.0,
+          "Description": "Kroger queso quesadilla finely shredded cheese",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 16.0,
-        "carbs": 2.0,
-        "protein": 14.0,
-        "calories": 208.0
+        "Fat": 16.0,
+        "Carbs": 2.0,
+        "Protein": 14.0,
+        "Calories": 208.0
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 156.0,
-        "protein": 0.0,
-        "calories": 624.0
+        "Fat": 0.0,
+        "Carbs": 156.0,
+        "Protein": 0.0,
+        "Calories": 624.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "032267ae-6c12-4a59-9d80-543741cfab22",
-          "servingSize": "Meal",
-          "fat": 45.0,
-          "carbs": 37.0,
-          "protein": 41.0,
-          "calories": 717.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "032267ae-6c12-4a59-9d80-543741cfab22",
+          "ServingSize": "Meal",
+          "Fat": 45.0,
+          "Carbs": 37.0,
+          "Protein": 41.0,
+          "Calories": 717.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 22.5,
-        "carbs": 18.5,
-        "protein": 20.5,
-        "calories": 358.5
+        "Fat": 22.5,
+        "Carbs": 18.5,
+        "Protein": 20.5,
+        "Calories": 358.5
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "ba426a5d-83cb-4e04-8cfb-9624882ecf85",
-          "servingSize": "Meal",
-          "fat": 19.0,
-          "carbs": 38.0,
-          "protein": 7.8,
-          "calories": 354.2,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "ba426a5d-83cb-4e04-8cfb-9624882ecf85",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 38.0,
+          "Protein": 7.8,
+          "Calories": 354.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 28.5,
-        "carbs": 57.0,
-        "protein": 11.7,
-        "calories": 531.3
+        "Fat": 28.5,
+        "Carbs": 57.0,
+        "Protein": 11.7,
+        "Calories": 531.3
       }
     ]
   }

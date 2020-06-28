@@ -1,159 +1,159 @@
 {
-  "dateTime": "2020-01-09T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 145.3,
-  "totalCarbs": 273.2,
-  "totalProtein": 219.8,
-  "totalCalories": 3279.7,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-01-09T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 145.3,
+  "TotalCarbs": 273.2,
+  "TotalProtein": 219.8,
+  "TotalCalories": 3279.7,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
-          "servingSize": "Fruit",
-          "fat": 0.4,
-          "carbs": 27.0,
-          "protein": 1.3,
-          "calories": 116.8,
-          "description": "General banana",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 0.4,
-        "carbs": 27.0,
-        "protein": 1.3,
-        "calories": 116.8
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.5,
-        "carbs": 0.0,
-        "protein": 37.5,
-        "calories": 163.5
+        "Fat": 1.5,
+        "Carbs": 0.0,
+        "Protein": 37.5,
+        "Calories": 163.5
       },
       {
-        "servingAmount": 0.33,
-        "mealSource": {
-          "id": "76892867-512e-4270-90b5-334eddba872e",
-          "servingSize": "Bag",
-          "fat": 20.0,
-          "carbs": 160.0,
-          "protein": 16.0,
-          "calories": 884.0,
-          "description": "Idahoan buttery homestyle mashed potatoes family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "76892867-512e-4270-90b5-334eddba872e",
+          "ServingSize": "Bag",
+          "Fat": 20.0,
+          "Carbs": 160.0,
+          "Protein": 16.0,
+          "Calories": 884.0,
+          "Description": "Idahoan buttery homestyle mashed potatoes family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 6.6,
-        "carbs": 52.8,
-        "protein": 5.3,
-        "calories": 291.8
+        "Fat": 6.6,
+        "Carbs": 52.8,
+        "Protein": 5.3,
+        "Calories": 291.8
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "20266eb4-67e7-41e0-adbf-47cd37a62e98",
-          "servingSize": "Meal",
-          "fat": 54.0,
-          "carbs": 46.0,
-          "protein": 64.0,
-          "calories": 926.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "20266eb4-67e7-41e0-adbf-47cd37a62e98",
+          "ServingSize": "Meal",
+          "Fat": 54.0,
+          "Carbs": 46.0,
+          "Protein": 64.0,
+          "Calories": 926.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 54.0,
-        "carbs": 46.0,
-        "protein": 64.0,
-        "calories": 926.0
+        "Fat": 54.0,
+        "Carbs": 46.0,
+        "Protein": 64.0,
+        "Calories": 926.0
       },
       {
-        "servingAmount": 2.0,
-        "mealSource": {
-          "id": "96641ade-a905-42cc-b54b-74f03e7d0eee",
-          "servingSize": "Meal",
-          "fat": 25.0,
-          "carbs": 29.0,
-          "protein": 24.0,
-          "calories": 437.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "96641ade-a905-42cc-b54b-74f03e7d0eee",
+          "ServingSize": "Meal",
+          "Fat": 25.0,
+          "Carbs": 29.0,
+          "Protein": 24.0,
+          "Calories": 437.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 50.0,
-        "carbs": 58.0,
-        "protein": 48.0,
-        "calories": 874.0
+        "Fat": 50.0,
+        "Carbs": 58.0,
+        "Protein": 48.0,
+        "Calories": 874.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "6b451df7-c819-4fa5-82f5-384dd7b4046f",
-          "servingSize": "Meal",
-          "fat": 7.4,
-          "carbs": 20.0,
-          "protein": 1.5,
-          "calories": 152.6,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6b451df7-c819-4fa5-82f5-384dd7b4046f",
+          "ServingSize": "Meal",
+          "Fat": 7.4,
+          "Carbs": 20.0,
+          "Protein": 1.5,
+          "Calories": 152.6,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 7.4,
-        "carbs": 20.0,
-        "protein": 1.5,
-        "calories": 152.6
+        "Fat": 7.4,
+        "Carbs": 20.0,
+        "Protein": 1.5,
+        "Calories": 152.6
       }
     ]
   }

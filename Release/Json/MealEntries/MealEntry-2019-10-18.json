@@ -1,105 +1,105 @@
 {
-  "dateTime": "2019-10-18T00:00:00-04:00",
-  "dayType": 1,
-  "totalFat": 111.8,
-  "totalCarbs": 492.3,
-  "totalProtein": 71.4,
-  "totalCalories": 3261.0,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-10-18T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 111.8,
+  "TotalCarbs": 492.3,
+  "TotalProtein": 71.4,
+  "TotalCalories": 3261.0,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 15.0,
-        "carbs": 6.8,
-        "protein": 22.5,
-        "calories": 252.2
+        "Fat": 15.0,
+        "Carbs": 6.8,
+        "Protein": 22.5,
+        "Calories": 252.2
       }
     ],
     "Large": [
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
-          "servingSize": "Slice",
-          "fat": 17.0,
-          "carbs": 35.0,
-          "protein": 16.0,
-          "calories": 357.0,
-          "description": "Slice of large pepperoni magnifico pizza from Marco's",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 51.0,
-        "carbs": 105.0,
-        "protein": 48.0,
-        "calories": 1071.0
+        "Fat": 51.0,
+        "Carbs": 105.0,
+        "Protein": 48.0,
+        "Calories": 1071.0
       },
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 117.0,
-        "protein": 0.0,
-        "calories": 468.0
+        "Fat": 0.0,
+        "Carbs": 117.0,
+        "Protein": 0.0,
+        "Calories": 468.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "8df8de99-3eba-4b5d-aded-87802127b5f2",
-          "servingSize": "Meal",
-          "fat": 7.6,
-          "carbs": 23.0,
-          "protein": 1.8,
-          "calories": 167.6,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "8df8de99-3eba-4b5d-aded-87802127b5f2",
+          "ServingSize": "Meal",
+          "Fat": 7.6,
+          "Carbs": 23.0,
+          "Protein": 1.8,
+          "Calories": 167.6,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 3.8,
-        "carbs": 11.5,
-        "protein": 0.9,
-        "calories": 83.8
+        "Fat": 3.8,
+        "Carbs": 11.5,
+        "Protein": 0.9,
+        "Calories": 83.8
       },
       {
-        "servingAmount": 14.0,
-        "mealSource": {
-          "id": "7b99dd0e-0ba0-44b9-a0b0-3ce9f6bd06cd",
-          "servingSize": "Meal",
-          "fat": 3.0,
-          "carbs": 18.0,
-          "protein": 0.0,
-          "calories": 99.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 14.0,
+        "MealSource": {
+          "Id": "7b99dd0e-0ba0-44b9-a0b0-3ce9f6bd06cd",
+          "ServingSize": "Meal",
+          "Fat": 3.0,
+          "Carbs": 18.0,
+          "Protein": 0.0,
+          "Calories": 99.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 42.0,
-        "carbs": 252.0,
-        "protein": 0.0,
-        "calories": 1386.0
+        "Fat": 42.0,
+        "Carbs": 252.0,
+        "Protein": 0.0,
+        "Calories": 1386.0
       }
     ]
   }

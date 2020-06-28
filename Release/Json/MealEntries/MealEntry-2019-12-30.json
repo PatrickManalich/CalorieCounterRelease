@@ -1,121 +1,121 @@
 {
-  "dateTime": "2019-12-30T00:00:00-05:00",
-  "dayType": 1,
-  "totalFat": 86.4,
-  "totalCarbs": 212.0,
-  "totalProtein": 197.6,
-  "totalCalories": 2416.0,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-12-30T00:00:00-05:00",
+  "DayType": 1,
+  "TotalFat": 86.4,
+  "TotalCarbs": 212.0,
+  "TotalProtein": 197.6,
+  "TotalCalories": 2416.0,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
-          "servingSize": "Fruit",
-          "fat": 0.4,
-          "carbs": 27.0,
-          "protein": 1.3,
-          "calories": 116.8,
-          "description": "General banana",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 0.4,
-        "carbs": 27.0,
-        "protein": 1.3,
-        "calories": 116.8
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 0.75,
-        "mealSource": {
-          "id": "76892867-512e-4270-90b5-334eddba872e",
-          "servingSize": "Bag",
-          "fat": 20.0,
-          "carbs": 160.0,
-          "protein": 16.0,
-          "calories": 884.0,
-          "description": "Idahoan buttery homestyle mashed potatoes family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.75,
+        "MealSource": {
+          "Id": "76892867-512e-4270-90b5-334eddba872e",
+          "ServingSize": "Bag",
+          "Fat": 20.0,
+          "Carbs": 160.0,
+          "Protein": 16.0,
+          "Calories": 884.0,
+          "Description": "Idahoan buttery homestyle mashed potatoes family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 15.0,
-        "carbs": 120.0,
-        "protein": 12.0,
-        "calories": 663.0
+        "Fat": 15.0,
+        "Carbs": 120.0,
+        "Protein": 12.0,
+        "Calories": 663.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "5a2126a3-3177-4ee6-8399-cf035226c216",
-          "servingSize": "Roast",
-          "fat": 80.0,
-          "carbs": 0.0,
-          "protein": 234.7,
-          "calories": 1658.8,
-          "description": "Simple Truth natural pork 32 oz",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 40.0,
-        "carbs": 0.0,
-        "protein": 117.3,
-        "calories": 829.2
+        "Fat": 40.0,
+        "Carbs": 0.0,
+        "Protein": 117.3,
+        "Calories": 829.2
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
-          "servingSize": "Roll",
-          "fat": 2.5,
-          "carbs": 14.0,
-          "protein": 3.0,
-          "calories": 90.5,
-          "description": "King's Hawaiian savory butter roll",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 10.0,
-        "carbs": 56.0,
-        "protein": 12.0,
-        "calories": 362.0
+        "Fat": 10.0,
+        "Carbs": 56.0,
+        "Protein": 12.0,
+        "Calories": 362.0
       }
     ],
     "Custom": []

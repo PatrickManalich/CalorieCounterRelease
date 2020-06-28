@@ -1,159 +1,159 @@
 {
-  "dateTime": "2020-02-01T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 64.2,
-  "totalCarbs": 356.9,
-  "totalProtein": 143.3,
-  "totalCalories": 2578.6,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-02-01T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 64.2,
+  "TotalCarbs": 356.9,
+  "TotalProtein": 143.3,
+  "TotalCalories": 2578.6,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "81baaae7-185b-499a-8926-661537bbc946",
-          "servingSize": "Biscuit",
-          "fat": 20.0,
-          "carbs": 16.0,
-          "protein": 48.0,
-          "calories": 436.0,
-          "description": "Chic-fil-A chicken biscuit",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "81baaae7-185b-499a-8926-661537bbc946",
+          "ServingSize": "Biscuit",
+          "Fat": 20.0,
+          "Carbs": 16.0,
+          "Protein": 48.0,
+          "Calories": 436.0,
+          "Description": "Chic-fil-A chicken biscuit",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 16.0,
-        "protein": 48.0,
-        "calories": 436.0
+        "Fat": 20.0,
+        "Carbs": 16.0,
+        "Protein": 48.0,
+        "Calories": 436.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "e83a1d04-f73e-4332-95db-aad560007904",
-          "servingSize": "Container",
-          "fat": 17.0,
-          "carbs": 23.0,
-          "protein": 3.0,
-          "calories": 257.0,
-          "description": "Chic-fil-A hashbrowns",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "e83a1d04-f73e-4332-95db-aad560007904",
+          "ServingSize": "Container",
+          "Fat": 17.0,
+          "Carbs": 23.0,
+          "Protein": 3.0,
+          "Calories": 257.0,
+          "Description": "Chic-fil-A hashbrowns",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 8.5,
-        "carbs": 11.5,
-        "protein": 1.5,
-        "calories": 128.5
+        "Fat": 8.5,
+        "Carbs": 11.5,
+        "Protein": 1.5,
+        "Calories": 128.5
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "dfecb953-6351-4621-a98e-b65c5de371b7",
-          "servingSize": "Container",
-          "fat": 0.0,
-          "carbs": 44.0,
-          "protein": 0.0,
-          "calories": 176.0,
-          "description": "Chic-fil-A medium sprite",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "dfecb953-6351-4621-a98e-b65c5de371b7",
+          "ServingSize": "Container",
+          "Fat": 0.0,
+          "Carbs": 44.0,
+          "Protein": 0.0,
+          "Calories": 176.0,
+          "Description": "Chic-fil-A medium sprite",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 44.0,
-        "protein": 0.0,
-        "calories": 176.0
+        "Fat": 0.0,
+        "Carbs": 44.0,
+        "Protein": 0.0,
+        "Calories": 176.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
-          "servingSize": "Can",
-          "fat": 0.0,
-          "carbs": 39.0,
-          "protein": 0.0,
-          "calories": 156.0,
-          "description": "Coca-Cola 12 oz can",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 117.0,
-        "protein": 0.0,
-        "calories": 468.0
+        "Fat": 0.0,
+        "Carbs": 117.0,
+        "Protein": 0.0,
+        "Calories": 468.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2cdc0b85-79b4-4346-95fb-ec48c7152308",
-          "servingSize": "Meal",
-          "fat": 29.0,
-          "carbs": 69.0,
-          "protein": 32.0,
-          "calories": 665.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2cdc0b85-79b4-4346-95fb-ec48c7152308",
+          "ServingSize": "Meal",
+          "Fat": 29.0,
+          "Carbs": 69.0,
+          "Protein": 32.0,
+          "Calories": 665.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 29.0,
-        "carbs": 69.0,
-        "protein": 32.0,
-        "calories": 665.0
+        "Fat": 29.0,
+        "Carbs": 69.0,
+        "Protein": 32.0,
+        "Calories": 665.0
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "35220433-f077-4bae-bd52-f17d4d9cc407",
-          "servingSize": "Meal",
-          "fat": 0.2,
-          "carbs": 26.0,
-          "protein": 3.1,
-          "calories": 118.2,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "35220433-f077-4bae-bd52-f17d4d9cc407",
+          "ServingSize": "Meal",
+          "Fat": 0.2,
+          "Carbs": 26.0,
+          "Protein": 3.1,
+          "Calories": 118.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 0.3,
-        "carbs": 39.0,
-        "protein": 4.6,
-        "calories": 177.1
+        "Fat": 0.3,
+        "Carbs": 39.0,
+        "Protein": 4.6,
+        "Calories": 177.1
       }
     ]
   }

@@ -1,157 +1,157 @@
 {
-  "dateTime": "2019-11-11T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 68.3,
-  "totalCarbs": 247.1,
-  "totalProtein": 138.5,
-  "totalCalories": 2157.1,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-11-11T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 68.3,
+  "TotalCarbs": 247.1,
+  "TotalProtein": 138.5,
+  "TotalCalories": 2157.1,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "0625b9d1-57ce-465c-82f0-76953090a50a",
-          "servingSize": "Fruit",
-          "fat": 0.4,
-          "carbs": 27.0,
-          "protein": 1.3,
-          "calories": 116.8,
-          "description": "General banana",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 0.4,
-        "carbs": 27.0,
-        "protein": 1.3,
-        "calories": 116.8
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 2.0,
-        "mealSource": {
-          "id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
-          "servingSize": "Slice",
-          "fat": 17.0,
-          "carbs": 35.0,
-          "protein": 16.0,
-          "calories": 357.0,
-          "description": "Slice of large pepperoni magnifico pizza from Marco's",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 34.0,
-        "carbs": 70.0,
-        "protein": 32.0,
-        "calories": 714.0
+        "Fat": 34.0,
+        "Carbs": 70.0,
+        "Protein": 32.0,
+        "Calories": 714.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
-          "servingSize": "Cup",
-          "fat": 0.0,
-          "carbs": 144.0,
-          "protein": 12.0,
-          "calories": 624.0,
-          "description": "Mahatma extra long enriched rice",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.0,
-        "carbs": 72.0,
-        "protein": 6.0,
-        "calories": 312.0
+        "Fat": 0.0,
+        "Carbs": 72.0,
+        "Protein": 6.0,
+        "Calories": 312.0
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
-          "servingSize": "Egg",
-          "fat": 4.8,
-          "carbs": 0.4,
-          "protein": 6.3,
-          "calories": 70.0,
-          "description": "General egg",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 7.2,
-        "carbs": 0.6,
-        "protein": 9.5,
-        "calories": 105.2
+        "Fat": 7.2,
+        "Carbs": 0.6,
+        "Protein": 9.5,
+        "Calories": 105.2
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
-          "servingSize": "Half Cup",
-          "fat": 0.3,
-          "carbs": 8.1,
-          "protein": 2.5,
-          "calories": 45.1,
-          "description": "General peas and carrots",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "ServingSize": "Half Cup",
+          "Fat": 0.3,
+          "Carbs": 8.1,
+          "Protein": 2.5,
+          "Calories": 45.1,
+          "Description": "General peas and carrots",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 0.3,
-        "carbs": 8.1,
-        "protein": 2.5,
-        "calories": 45.1
+        "Fat": 0.3,
+        "Carbs": 8.1,
+        "Protein": 2.5,
+        "Calories": 45.1
       }
     ],
     "Custom": []

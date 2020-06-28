@@ -1,141 +1,141 @@
 {
-  "dateTime": "2020-01-22T00:00:00-05:00",
-  "dayType": 1,
-  "totalFat": 85.0,
-  "totalCarbs": 285.5,
-  "totalProtein": 111.0,
-  "totalCalories": 2351.0,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-01-22T00:00:00-05:00",
+  "DayType": 1,
+  "TotalFat": 85.0,
+  "TotalCarbs": 285.5,
+  "TotalProtein": 111.0,
+  "TotalCalories": 2351.0,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 10.0,
-        "carbs": 4.5,
-        "protein": 15.0,
-        "calories": 168.0
+        "Fat": 10.0,
+        "Carbs": 4.5,
+        "Protein": 15.0,
+        "Calories": 168.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
-          "servingSize": "Sandwich",
-          "fat": 19.0,
-          "carbs": 40.0,
-          "protein": 28.0,
-          "calories": 443.0,
-          "description": "Chic-fil-A chicken sandwich",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "ServingSize": "Sandwich",
+          "Fat": 19.0,
+          "Carbs": 40.0,
+          "Protein": 28.0,
+          "Calories": 443.0,
+          "Description": "Chic-fil-A chicken sandwich",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 19.0,
-        "carbs": 40.0,
-        "protein": 28.0,
-        "calories": 443.0
+        "Fat": 19.0,
+        "Carbs": 40.0,
+        "Protein": 28.0,
+        "Calories": 443.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "1f7d8135-8164-4c38-bfc8-644981d2f1ad",
-          "servingSize": "Container",
-          "fat": 18.0,
-          "carbs": 43.0,
-          "protein": 5.0,
-          "calories": 354.0,
-          "description": "Chic-fil-A medium fries",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "1f7d8135-8164-4c38-bfc8-644981d2f1ad",
+          "ServingSize": "Container",
+          "Fat": 18.0,
+          "Carbs": 43.0,
+          "Protein": 5.0,
+          "Calories": 354.0,
+          "Description": "Chic-fil-A medium fries",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 18.0,
-        "carbs": 43.0,
-        "protein": 5.0,
-        "calories": 354.0
+        "Fat": 18.0,
+        "Carbs": 43.0,
+        "Protein": 5.0,
+        "Calories": 354.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
-          "servingSize": "Shake",
-          "fat": 25.0,
-          "carbs": 86.0,
-          "protein": 15.0,
-          "calories": 629.0,
-          "description": "Chic-fil-A large vanilla shake",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "ServingSize": "Shake",
+          "Fat": 25.0,
+          "Carbs": 86.0,
+          "Protein": 15.0,
+          "Calories": 629.0,
+          "Description": "Chic-fil-A large vanilla shake",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 25.0,
-        "carbs": 86.0,
-        "protein": 15.0,
-        "calories": 629.0
+        "Fat": 25.0,
+        "Carbs": 86.0,
+        "Protein": 15.0,
+        "Calories": 629.0
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.5,
-        "carbs": 0.0,
-        "protein": 37.5,
-        "calories": 163.5
+        "Fat": 1.5,
+        "Carbs": 0.0,
+        "Protein": 37.5,
+        "Calories": 163.5
       },
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "76892867-512e-4270-90b5-334eddba872e",
-          "servingSize": "Bag",
-          "fat": 20.0,
-          "carbs": 160.0,
-          "protein": 16.0,
-          "calories": 884.0,
-          "description": "Idahoan buttery homestyle mashed potatoes family size",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "76892867-512e-4270-90b5-334eddba872e",
+          "ServingSize": "Bag",
+          "Fat": 20.0,
+          "Carbs": 160.0,
+          "Protein": 16.0,
+          "Calories": 884.0,
+          "Description": "Idahoan buttery homestyle mashed potatoes family size",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 10.0,
-        "carbs": 80.0,
-        "protein": 8.0,
-        "calories": 442.0
+        "Fat": 10.0,
+        "Carbs": 80.0,
+        "Protein": 8.0,
+        "Calories": 442.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "05622d65-4be9-49cc-878c-76efce9058e4",
-          "servingSize": "Meal",
-          "fat": 1.5,
-          "carbs": 32.0,
-          "protein": 2.5,
-          "calories": 151.5,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "05622d65-4be9-49cc-878c-76efce9058e4",
+          "ServingSize": "Meal",
+          "Fat": 1.5,
+          "Carbs": 32.0,
+          "Protein": 2.5,
+          "Calories": 151.5,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 1.5,
-        "carbs": 32.0,
-        "protein": 2.5,
-        "calories": 151.5
+        "Fat": 1.5,
+        "Carbs": 32.0,
+        "Protein": 2.5,
+        "Calories": 151.5
       }
     ]
   }

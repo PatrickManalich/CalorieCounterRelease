@@ -1,87 +1,87 @@
 {
-  "dateTime": "2019-10-12T00:00:00-04:00",
-  "dayType": 2,
-  "totalFat": 86.9,
-  "totalCarbs": 231.4,
-  "totalProtein": 83.6,
-  "totalCalories": 2042.1,
-  "mealProportionsDictionary": {
+  "DateTime": "2019-10-12T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 86.9,
+  "TotalCarbs": 231.4,
+  "TotalProtein": 83.6,
+  "TotalCalories": 2042.1,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
-          "servingSize": "Bagel",
-          "fat": 3.5,
-          "carbs": 53.0,
-          "protein": 9.0,
-          "calories": 279.5,
-          "description": "Thomas everything bagel",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "ServingSize": "Bagel",
+          "Fat": 3.5,
+          "Carbs": 53.0,
+          "Protein": 9.0,
+          "Calories": 279.5,
+          "Description": "Thomas everything bagel",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 3.5,
-        "carbs": 53.0,
-        "protein": 9.0,
-        "calories": 279.5
+        "Fat": 3.5,
+        "Carbs": 53.0,
+        "Protein": 9.0,
+        "Calories": 279.5
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 0.5,
-        "mealSource": {
-          "id": "591e1757-d988-487e-984f-e20a865f91f2",
-          "servingSize": "Pizza",
-          "fat": 100.0,
-          "carbs": 120.0,
-          "protein": 70.0,
-          "calories": 1660.0,
-          "description": "Screamin' Sicilian holy pepperoni pizza",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "591e1757-d988-487e-984f-e20a865f91f2",
+          "ServingSize": "Pizza",
+          "Fat": 100.0,
+          "Carbs": 120.0,
+          "Protein": 70.0,
+          "Calories": 1660.0,
+          "Description": "Screamin' Sicilian holy pepperoni pizza",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 50.0,
-        "carbs": 60.0,
-        "protein": 35.0,
-        "calories": 830.0
+        "Fat": 50.0,
+        "Carbs": 60.0,
+        "Protein": 35.0,
+        "Calories": 830.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 2.0,
-        "mealSource": {
-          "id": "5374b2df-8094-4bcd-bd07-c4df00dffe73",
-          "servingSize": "Meal",
-          "fat": 14.0,
-          "carbs": 29.0,
-          "protein": 3.7,
-          "calories": 256.8,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "5374b2df-8094-4bcd-bd07-c4df00dffe73",
+          "ServingSize": "Meal",
+          "Fat": 14.0,
+          "Carbs": 29.0,
+          "Protein": 3.7,
+          "Calories": 256.8,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 28.0,
-        "carbs": 58.0,
-        "protein": 7.4,
-        "calories": 513.6
+        "Fat": 28.0,
+        "Carbs": 58.0,
+        "Protein": 7.4,
+        "Calories": 513.6
       }
     ]
   }

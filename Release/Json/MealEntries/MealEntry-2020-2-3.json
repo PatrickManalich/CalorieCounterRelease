@@ -1,123 +1,123 @@
 {
-  "dateTime": "2020-02-03T00:00:00-05:00",
-  "dayType": 2,
-  "totalFat": 45.1,
-  "totalCarbs": 287.4,
-  "totalProtein": 155.3,
-  "totalCalories": 2176.7,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-02-03T00:00:00-05:00",
+  "DayType": 2,
+  "TotalFat": 45.1,
+  "TotalCarbs": 287.4,
+  "TotalProtein": 155.3,
+  "TotalCalories": 2176.7,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "a927f188-780c-459a-a546-fb5b01b5b033",
-          "servingSize": "Smoothie",
-          "fat": 5.4,
-          "carbs": 60.4,
-          "protein": 32.2,
-          "calories": 419.0,
-          "description": "The Classic protein smoothie",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 5.4,
-        "carbs": 60.4,
-        "protein": 32.2,
-        "calories": 419.0
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
-          "servingSize": "Breast",
-          "fat": 1.0,
-          "carbs": 0.0,
-          "protein": 25.0,
-          "calories": 109.0,
-          "description": "Simple Truth natural chicken breast",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 1.0,
-        "carbs": 0.0,
-        "protein": 25.0,
-        "calories": 109.0
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
       },
       {
-        "servingAmount": 0.33,
-        "mealSource": {
-          "id": "5a2126a3-3177-4ee6-8399-cf035226c216",
-          "servingSize": "Roast",
-          "fat": 80.0,
-          "carbs": 0.0,
-          "protein": 234.7,
-          "calories": 1658.8,
-          "description": "Simple Truth natural pork 32 oz",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 26.4,
-        "carbs": 0.0,
-        "protein": 77.5,
-        "calories": 547.6
+        "Fat": 26.4,
+        "Carbs": 0.0,
+        "Protein": 77.5,
+        "Calories": 547.6
       },
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
-          "servingSize": "Roll",
-          "fat": 2.5,
-          "carbs": 14.0,
-          "protein": 3.0,
-          "calories": 90.5,
-          "description": "King's Hawaiian savory butter roll",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 10.0,
-        "carbs": 56.0,
-        "protein": 12.0,
-        "calories": 362.0
+        "Fat": 10.0,
+        "Carbs": 56.0,
+        "Protein": 12.0,
+        "Calories": 362.0
       }
     ],
     "Custom": [
       {
-        "servingAmount": 4.0,
-        "mealSource": {
-          "id": "36fd5cd4-98ad-4135-af83-5813b85b2e4f",
-          "servingSize": "Meal",
-          "fat": 0.5,
-          "carbs": 33.0,
-          "protein": 1.0,
-          "calories": 140.5,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "36fd5cd4-98ad-4135-af83-5813b85b2e4f",
+          "ServingSize": "Meal",
+          "Fat": 0.5,
+          "Carbs": 33.0,
+          "Protein": 1.0,
+          "Calories": 140.5,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 2.0,
-        "carbs": 132.0,
-        "protein": 4.0,
-        "calories": 562.0
+        "Fat": 2.0,
+        "Carbs": 132.0,
+        "Protein": 4.0,
+        "Calories": 562.0
       },
       {
-        "servingAmount": 1.5,
-        "mealSource": {
-          "id": "935f79ca-66ac-461f-883f-3bcc0a9a39cc",
-          "servingSize": "Meal",
-          "fat": 0.2,
-          "carbs": 26.0,
-          "protein": 3.1,
-          "calories": 118.2,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "935f79ca-66ac-461f-883f-3bcc0a9a39cc",
+          "ServingSize": "Meal",
+          "Fat": 0.2,
+          "Carbs": 26.0,
+          "Protein": 3.1,
+          "Calories": 118.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 0.3,
-        "carbs": 39.0,
-        "protein": 4.6,
-        "calories": 177.1
+        "Fat": 0.3,
+        "Carbs": 39.0,
+        "Protein": 4.6,
+        "Calories": 177.1
       }
     ]
   }

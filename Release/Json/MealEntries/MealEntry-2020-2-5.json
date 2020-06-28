@@ -1,105 +1,105 @@
 {
-  "dateTime": "2020-02-05T00:00:00-05:00",
-  "dayType": 1,
-  "totalFat": 108.5,
-  "totalCarbs": 263.0,
-  "totalProtein": 132.0,
-  "totalCalories": 2556.5,
-  "mealProportionsDictionary": {
+  "DateTime": "2020-02-05T00:00:00-05:00",
+  "DayType": 1,
+  "TotalFat": 108.5,
+  "TotalCarbs": 263.0,
+  "TotalProtein": 132.0,
+  "TotalCalories": 2556.5,
+  "MealProportionsDictionary": {
     "Small": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
-          "servingSize": "Bar",
-          "fat": 20.0,
-          "carbs": 9.0,
-          "protein": 30.0,
-          "calories": 336.0,
-          "description": "Clif builder's protein bar chocolate mint",
-          "mealSourceType": 0,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
         },
-        "fat": 20.0,
-        "carbs": 9.0,
-        "protein": 30.0,
-        "calories": 336.0
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
       }
     ],
     "Large": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
-          "servingSize": "Sandwich",
-          "fat": 19.0,
-          "carbs": 40.0,
-          "protein": 28.0,
-          "calories": 443.0,
-          "description": "Chic-fil-A chicken sandwich",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "ServingSize": "Sandwich",
+          "Fat": 19.0,
+          "Carbs": 40.0,
+          "Protein": 28.0,
+          "Calories": 443.0,
+          "Description": "Chic-fil-A chicken sandwich",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 19.0,
-        "carbs": 40.0,
-        "protein": 28.0,
-        "calories": 443.0
+        "Fat": 19.0,
+        "Carbs": 40.0,
+        "Protein": 28.0,
+        "Calories": 443.0
       },
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
-          "servingSize": "Shake",
-          "fat": 25.0,
-          "carbs": 86.0,
-          "protein": 15.0,
-          "calories": 629.0,
-          "description": "Chic-fil-A large vanilla shake",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "ServingSize": "Shake",
+          "Fat": 25.0,
+          "Carbs": 86.0,
+          "Protein": 15.0,
+          "Calories": 629.0,
+          "Description": "Chic-fil-A large vanilla shake",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 25.0,
-        "carbs": 86.0,
-        "protein": 15.0,
-        "calories": 629.0
+        "Fat": 25.0,
+        "Carbs": 86.0,
+        "Protein": 15.0,
+        "Calories": 629.0
       },
       {
-        "servingAmount": 3.0,
-        "mealSource": {
-          "id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
-          "servingSize": "Roll",
-          "fat": 2.5,
-          "carbs": 14.0,
-          "protein": 3.0,
-          "calories": 90.5,
-          "description": "King's Hawaiian savory butter roll",
-          "mealSourceType": 1,
-          "archived": false
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
         },
-        "fat": 7.5,
-        "carbs": 42.0,
-        "protein": 9.0,
-        "calories": 271.5
+        "Fat": 7.5,
+        "Carbs": 42.0,
+        "Protein": 9.0,
+        "Calories": 271.5
       }
     ],
     "Custom": [
       {
-        "servingAmount": 1.0,
-        "mealSource": {
-          "id": "41dde0b2-9e35-4cbd-ba32-8bb882f04fb3",
-          "servingSize": "Meal",
-          "fat": 37.0,
-          "carbs": 86.0,
-          "protein": 50.0,
-          "calories": 877.0,
-          "description": "",
-          "mealSourceType": 2,
-          "archived": false
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "41dde0b2-9e35-4cbd-ba32-8bb882f04fb3",
+          "ServingSize": "Meal",
+          "Fat": 37.0,
+          "Carbs": 86.0,
+          "Protein": 50.0,
+          "Calories": 877.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
         },
-        "fat": 37.0,
-        "carbs": 86.0,
-        "protein": 50.0,
-        "calories": 877.0
+        "Fat": 37.0,
+        "Carbs": 86.0,
+        "Protein": 50.0,
+        "Calories": 877.0
       }
     ]
   }
