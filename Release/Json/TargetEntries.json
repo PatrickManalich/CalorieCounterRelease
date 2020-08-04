@@ -700,5 +700,18 @@
     "TrainingDayCarbs": 366.7,
     "TrainingDayProtein": 157.1,
     "TrainingDayCalories": 2685.5
+  },
+  "2020-08-03T00:00:00-04:00": {
+    "DateTime": "2020-08-03T00:00:00-04:00",
+    "Weight": 131.6,
+    "CalorieMaintenanceLevel": 2154.3,
+    "RestDayFat": 71.7,
+    "RestDayCarbs": 263.5,
+    "RestDayProtein": 151.3,
+    "RestDayCalories": 2304.3,
+    "TrainingDayFat": 64.9,
+    "TrainingDayCarbs": 366.2,
+    "TrainingDayProtein": 151.3,
+    "TrainingDayCalories": 2654.3
   }
 }
