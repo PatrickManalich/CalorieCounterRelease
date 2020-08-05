@@ -1,0 +1,106 @@
+{
+  "DateTime": "2020-08-04T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 75.3,
+  "TotalCarbs": 295.5,
+  "TotalProtein": 83.8,
+  "TotalCalories": 2194.9,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 10.0,
+        "Carbs": 4.5,
+        "Protein": 15.0,
+        "Calories": 168.0
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 51.0,
+        "Carbs": 105.0,
+        "Protein": 48.0,
+        "Calories": 1071.0
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 78.0,
+        "Protein": 0.0,
+        "Calories": 312.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 6.0,
+        "MealSource": {
+          "Id": "c645f415-a634-4cd3-8a7e-59efd4d6f5f6",
+          "ServingSize": "Meal",
+          "Fat": 1.7,
+          "Carbs": 12.0,
+          "Protein": 2.0,
+          "Calories": 71.3,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 10.2,
+        "Carbs": 72.0,
+        "Protein": 12.0,
+        "Calories": 427.8
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7a3daf16-4044-40a5-96d8-a7ec7658314e",
+          "ServingSize": "Meal",
+          "Fat": 4.1,
+          "Carbs": 36.0,
+          "Protein": 8.8,
+          "Calories": 216.1,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 4.1,
+        "Carbs": 36.0,
+        "Protein": 8.8,
+        "Calories": 216.1
+      }
+    ]
+  }
+}
