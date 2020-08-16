@@ -1,0 +1,159 @@
+{
+  "DateTime": "2020-08-12T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 77.3,
+  "TotalCarbs": 243.9,
+  "TotalProtein": 193.7,
+  "TotalCalories": 2446.1,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6e095bf4-7439-4bce-8946-4a6434bed151",
+          "ServingSize": "Container",
+          "Fat": 18.0,
+          "Carbs": 13.5,
+          "Protein": 42.0,
+          "Calories": 384.0,
+          "Description": "Chic-fil-A twelve count nuggets",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 18.0,
+        "Carbs": 13.5,
+        "Protein": 42.0,
+        "Calories": 384.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "dfecb953-6351-4621-a98e-b65c5de371b7",
+          "ServingSize": "Container",
+          "Fat": 0.0,
+          "Carbs": 44.0,
+          "Protein": 0.0,
+          "Calories": 176.0,
+          "Description": "Chic-fil-A medium sprite",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 44.0,
+        "Protein": 0.0,
+        "Calories": 176.0
+      },
+      {
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 26.4,
+        "Carbs": 0.0,
+        "Protein": 77.5,
+        "Calories": 547.6
+      },
+      {
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 7.5,
+        "Carbs": 42.0,
+        "Protein": 9.0,
+        "Calories": 271.5
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 36.0,
+        "Protein": 3.0,
+        "Calories": 156.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 39.0,
+        "Protein": 0.0,
+        "Calories": 156.0
+      }
+    ],
+    "Custom": []
+  }
+}

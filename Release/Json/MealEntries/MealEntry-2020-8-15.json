@@ -1,0 +1,124 @@
+{
+  "DateTime": "2020-08-15T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 82.7,
+  "TotalCarbs": 108.6,
+  "TotalProtein": 101.9,
+  "TotalCalories": 1586.3,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "0d441937-3dbe-441b-a7c0-160b38bb5a26",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 9.6,
+        "Carbs": 0.8,
+        "Protein": 12.6,
+        "Calories": 140.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "ServingSize": "Bagel",
+          "Fat": 3.5,
+          "Carbs": 53.0,
+          "Protein": 9.0,
+          "Calories": 279.5,
+          "Description": "Thomas everything bagel",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 3.5,
+        "Carbs": 53.0,
+        "Protein": 9.0,
+        "Calories": 279.5
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 0.0,
+        "Protein": 58.7,
+        "Calories": 414.8
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 36.0,
+        "Protein": 3.0,
+        "Calories": 156.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "a52ad4dd-b0e0-4d3a-a12b-c4d032cdd7cf",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 0.6,
+          "Protein": 8.1,
+          "Calories": 205.8,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 38.0,
+        "Carbs": 1.2,
+        "Protein": 16.2,
+        "Calories": 411.6
+      },
+      {
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "703bdb19-9f29-44fb-bcba-47356f75615d",
+          "ServingSize": "Meal",
+          "Fat": 2.9,
+          "Carbs": 4.4,
+          "Protein": 0.6,
+          "Calories": 46.1,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 11.6,
+        "Carbs": 17.6,
+        "Protein": 2.4,
+        "Calories": 184.4
+      }
+    ]
+  }
+}

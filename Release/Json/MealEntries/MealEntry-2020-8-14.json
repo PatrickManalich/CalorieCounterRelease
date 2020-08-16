@@ -1,0 +1,160 @@
+{
+  "DateTime": "2020-08-14T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 114.6,
+  "TotalCarbs": 343.0,
+  "TotalProtein": 124.5,
+  "TotalCalories": 2901.4,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "ServingSize": "Box",
+          "Fat": 8.0,
+          "Carbs": 336.0,
+          "Protein": 56.0,
+          "Calories": 1640.0,
+          "Description": "Barilla farfalle box",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 2.0,
+        "Carbs": 84.0,
+        "Protein": 14.0,
+        "Calories": 410.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "ServingSize": "Container",
+          "Fat": 92.0,
+          "Carbs": 0.0,
+          "Protein": 76.0,
+          "Calories": 1132.0,
+          "Description": "Kroger ground beef 80% lean meat and 20% fat",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 46.0,
+        "Carbs": 0.0,
+        "Protein": 38.0,
+        "Calories": 566.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "7245f643-a8b7-48ce-a653-154eacbd6545",
+          "ServingSize": "Jar",
+          "Fat": 15.0,
+          "Carbs": 130.0,
+          "Protein": 20.0,
+          "Calories": 735.0,
+          "Description": "Prego italian sauce traditional 45 oz jar",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 7.5,
+        "Carbs": 65.0,
+        "Protein": 10.0,
+        "Calories": 367.5
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "ServingSize": "Slice",
+          "Fat": 9.0,
+          "Carbs": 17.0,
+          "Protein": 3.0,
+          "Calories": 161.0,
+          "Description": "New York Bakery texas toast with real garlic",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 9.0,
+        "Carbs": 17.0,
+        "Protein": 3.0,
+        "Calories": 161.0
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 78.0,
+        "Protein": 0.0,
+        "Calories": 312.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "2e853ecd-ba72-4142-9008-84c5a165b506",
+          "ServingSize": "Meal",
+          "Fat": 9.9,
+          "Carbs": 21.0,
+          "Protein": 9.4,
+          "Calories": 210.7,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 29.7,
+        "Carbs": 63.0,
+        "Protein": 28.2,
+        "Calories": 632.1
+      }
+    ]
+  }
+}
