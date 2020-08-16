@@ -464,6 +464,61 @@
       "MealSourceType": 1,
       "Archived": false
     },
+    "dcbbd488-1980-48ca-914b-078e8dae6ddd": {
+      "Id": "dcbbd488-1980-48ca-914b-078e8dae6ddd",
+      "ServingSize": "Burger",
+      "Fat": 23.0,
+      "Carbs": 32.0,
+      "Protein": 24.0,
+      "Calories": 431.0,
+      "Description": "McDonald's plain double cheeseburger",
+      "MealSourceType": 1,
+      "Archived": false
+    },
+    "dc3b5f6b-6f74-4176-9ff4-f8bad1df7dec": {
+      "Id": "dc3b5f6b-6f74-4176-9ff4-f8bad1df7dec",
+      "ServingSize": "Container",
+      "Fat": 10.0,
+      "Carbs": 29.0,
+      "Protein": 3.0,
+      "Calories": 218.0,
+      "Description": "McDonald's small world famous fries",
+      "MealSourceType": 1,
+      "Archived": false
+    },
+    "6562b011-4868-4fea-9eae-842bdd62ddc8": {
+      "Id": "6562b011-4868-4fea-9eae-842bdd62ddc8",
+      "ServingSize": "Drink",
+      "Fat": 0.0,
+      "Carbs": 69.0,
+      "Protein": 0.0,
+      "Calories": 276.0,
+      "Description": "McDonald's large sprite",
+      "MealSourceType": 1,
+      "Archived": false
+    },
+    "6e389c3b-db03-4ca9-b6d7-b7f2436b9caa": {
+      "Id": "6e389c3b-db03-4ca9-b6d7-b7f2436b9caa",
+      "ServingSize": "Drink",
+      "Fat": 0.0,
+      "Carbs": 51.0,
+      "Protein": 0.0,
+      "Calories": 204.0,
+      "Description": "McDonald's medium sprite",
+      "MealSourceType": 1,
+      "Archived": false
+    },
+    "8f772825-9cc5-4ce6-801a-d18945eb1724": {
+      "Id": "8f772825-9cc5-4ce6-801a-d18945eb1724",
+      "ServingSize": "Container",
+      "Fat": 16.5,
+      "Carbs": 111.0,
+      "Protein": 28.0,
+      "Calories": 704.5,
+      "Description": "Noodles & Company regular japanese pan noodles with double sauteed shrimp",
+      "MealSourceType": 1,
+      "Archived": false
+    },
     "0d63535d-9c90-4c74-b1f4-5436099aac76": {
       "Id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
       "ServingSize": "Box",
