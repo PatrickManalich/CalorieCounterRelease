@@ -1,0 +1,160 @@
+{
+  "DateTime": "2020-08-26T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 76.8,
+  "TotalCarbs": 204.5,
+  "TotalProtein": 148.5,
+  "TotalCalories": 2103.2,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "1f7d8135-8164-4c38-bfc8-644981d2f1ad",
+          "ServingSize": "Container",
+          "Fat": 18.0,
+          "Carbs": 43.0,
+          "Protein": 5.0,
+          "Calories": 354.0,
+          "Description": "Chick-fil-A medium fries",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 18.0,
+        "Carbs": 43.0,
+        "Protein": 5.0,
+        "Calories": 354.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6e095bf4-7439-4bce-8946-4a6434bed151",
+          "ServingSize": "Container",
+          "Fat": 18.0,
+          "Carbs": 13.5,
+          "Protein": 42.0,
+          "Calories": 384.0,
+          "Description": "Chick-fil-A twelve count nuggets",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 18.0,
+        "Carbs": 13.5,
+        "Protein": 42.0,
+        "Calories": 384.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "dfecb953-6351-4621-a98e-b65c5de371b7",
+          "ServingSize": "Container",
+          "Fat": 0.0,
+          "Carbs": 44.0,
+          "Protein": 0.0,
+          "Calories": 176.0,
+          "Description": "Chick-fil-A medium sprite",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 44.0,
+        "Protein": 0.0,
+        "Calories": 176.0
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 0.0,
+        "Protein": 58.7,
+        "Calories": 414.8
+      },
+      {
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 47.5,
+        "Protein": 4.0,
+        "Calories": 206.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "2ab28ac1-810b-4c78-8761-051ee9ff6d59",
+          "ServingSize": "Meal",
+          "Fat": 0.9,
+          "Carbs": 41.0,
+          "Protein": 15.0,
+          "Calories": 232.1,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 20.5,
+        "Protein": 7.5,
+        "Calories": 115.6
+      }
+    ]
+  }
+}

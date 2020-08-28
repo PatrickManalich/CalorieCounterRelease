@@ -1,0 +1,141 @@
+{
+  "DateTime": "2020-08-23T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 112.4,
+  "TotalCarbs": 308.0,
+  "TotalProtein": 85.5,
+  "TotalCalories": 2585.6,
+  "MealProportionsDictionary": {
+    "Small": [],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 17.0,
+        "Carbs": 35.0,
+        "Protein": 16.0,
+        "Calories": 357.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 140.0,
+          "Protein": 12.0,
+          "Calories": 608.0,
+          "Description": "Goya yellow rice spanish style family size",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 35.0,
+        "Protein": 3.0,
+        "Calories": 152.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 39.0,
+        "Protein": 0.0,
+        "Calories": 156.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "f580b572-4323-43e2-9a1a-8b069699d4ab",
+          "ServingSize": "Meal",
+          "Fat": 14.0,
+          "Carbs": 12.0,
+          "Protein": 6.0,
+          "Calories": 198.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 56.0,
+        "Carbs": 48.0,
+        "Protein": 24.0,
+        "Calories": 792.0
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "686b1eb8-d1cd-4e48-a30e-06deac38e81c",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 38.0,
+          "Protein": 7.8,
+          "Calories": 354.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 38.0,
+        "Carbs": 76.0,
+        "Protein": 15.6,
+        "Calories": 708.4
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "04066f53-8d5c-402f-8e7a-7961c7143fd4",
+          "ServingSize": "Meal",
+          "Fat": 0.4,
+          "Carbs": 75.0,
+          "Protein": 1.9,
+          "Calories": 311.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 75.0,
+        "Protein": 1.9,
+        "Calories": 311.2
+      }
+    ]
+  }
+}

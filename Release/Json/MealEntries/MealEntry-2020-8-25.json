@@ -1,0 +1,195 @@
+{
+  "DateTime": "2020-08-25T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 120.6,
+  "TotalCarbs": 356.3,
+  "TotalProtein": 143.7,
+  "TotalCalories": 3085.4,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "ServingSize": "Bagel",
+          "Fat": 3.5,
+          "Carbs": 53.0,
+          "Protein": 9.0,
+          "Calories": 279.5,
+          "Description": "Thomas everything bagel",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 3.5,
+        "Carbs": 53.0,
+        "Protein": 9.0,
+        "Calories": 279.5
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "ec544bd0-c811-4627-a440-bad70cbe477f",
+          "ServingSize": "Bagel",
+          "Fat": 20.0,
+          "Carbs": 3.2,
+          "Protein": 3.6,
+          "Calories": 207.2,
+          "Description": "Philadelphia cream cheese original",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 3.2,
+        "Protein": 3.6,
+        "Calories": 207.2
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "d1351318-c5b3-405a-add8-76e7208140c8",
+          "ServingSize": "Bag",
+          "Fat": 12.6,
+          "Carbs": 2.7,
+          "Protein": 55.8,
+          "Calories": 347.4,
+          "Description": "Kroger bag of 0.8 lb of sliced ham",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 3.2,
+        "Carbs": 0.7,
+        "Protein": 13.9,
+        "Calories": 87.2
+      },
+      {
+        "ServingAmount": 4.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 10.0,
+        "Carbs": 56.0,
+        "Protein": 12.0,
+        "Calories": 362.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "30d473b1-e992-4085-8142-e35d6b1b99e5",
+          "ServingSize": "Slice",
+          "Fat": 5.0,
+          "Carbs": 0.0,
+          "Protein": 5.0,
+          "Calories": 65.0,
+          "Description": "Sargento provolone cheese",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 5.0,
+        "Carbs": 0.0,
+        "Protein": 5.0,
+        "Calories": 65.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "84258f6d-800a-4473-9db0-13412b864cc8",
+          "ServingSize": "Container",
+          "Fat": 92.0,
+          "Carbs": 0.0,
+          "Protein": 76.0,
+          "Calories": 1132.0,
+          "Description": "Kroger ground beef 80% lean meat and 20% fat",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 46.0,
+        "Carbs": 0.0,
+        "Protein": 38.0,
+        "Calories": 566.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "7245f643-a8b7-48ce-a653-154eacbd6545",
+          "ServingSize": "Jar",
+          "Fat": 15.0,
+          "Carbs": 130.0,
+          "Protein": 20.0,
+          "Calories": 735.0,
+          "Description": "Prego italian sauce traditional 45 oz jar",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 7.5,
+        "Carbs": 65.0,
+        "Protein": 10.0,
+        "Calories": 367.5
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "0d63535d-9c90-4c74-b1f4-5436099aac76",
+          "ServingSize": "Box",
+          "Fat": 8.0,
+          "Carbs": 336.0,
+          "Protein": 56.0,
+          "Calories": 1640.0,
+          "Description": "Barilla farfalle box",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 2.0,
+        "Carbs": 84.0,
+        "Protein": 14.0,
+        "Calories": 410.0
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "466db1a3-adc0-4d5a-ad71-1004937b9254",
+          "ServingSize": "Slice",
+          "Fat": 9.0,
+          "Carbs": 17.0,
+          "Protein": 3.0,
+          "Calories": 161.0,
+          "Description": "New York Bakery texas toast with real garlic",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 18.0,
+        "Carbs": 34.0,
+        "Protein": 6.0,
+        "Calories": 322.0
+      }
+    ],
+    "Custom": []
+  }
+}

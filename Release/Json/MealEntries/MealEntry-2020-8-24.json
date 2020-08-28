@@ -1,0 +1,160 @@
+{
+  "DateTime": "2020-08-24T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 40.9,
+  "TotalCarbs": 161.7,
+  "TotalProtein": 103.8,
+  "TotalCalories": 1430.1,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "7a263155-8967-4521-aaf7-a6d3d8f2b404",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 140.0,
+          "Protein": 12.0,
+          "Calories": 608.0,
+          "Description": "Goya yellow rice spanish style family size",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 35.0,
+        "Protein": 3.0,
+        "Calories": 152.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c9256ae0-e329-418a-839b-8d080cf6b042",
+          "ServingSize": "Fillet",
+          "Fat": 9.0,
+          "Carbs": 0.0,
+          "Protein": 36.0,
+          "Calories": 225.0,
+          "Description": "Kroger wild caught boneless sockeye salmon",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 9.0,
+        "Carbs": 0.0,
+        "Protein": 36.0,
+        "Calories": 225.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c6b7bfad-3f0f-4d83-abec-1c80777c9cd8",
+          "ServingSize": "Ten Spears",
+          "Fat": 0.3,
+          "Carbs": 6.2,
+          "Protein": 3.6,
+          "Calories": 41.9,
+          "Description": "Ten spears of general asparagus",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.3,
+        "Carbs": 6.2,
+        "Protein": 3.6,
+        "Calories": 41.9
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "d1a86c26-5b9b-45e1-bdfd-2bf0fef7dc4b",
+          "ServingSize": "Meal",
+          "Fat": 0.4,
+          "Carbs": 75.0,
+          "Protein": 1.9,
+          "Calories": 311.2,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 0.2,
+        "Carbs": 37.5,
+        "Protein": 0.9,
+        "Calories": 155.4
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "3d602399-bdaf-48db-a69c-7e7f7f22c954",
+          "ServingSize": "Meal",
+          "Fat": 10.0,
+          "Carbs": 47.0,
+          "Protein": 4.0,
+          "Calories": 294.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 10.0,
+        "Carbs": 47.0,
+        "Protein": 4.0,
+        "Calories": 294.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "DateTime": "2020-08-19T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 84.1,
+  "TotalCarbs": 202.8,
+  "TotalProtein": 119.5,
+  "TotalCalories": 2046.1,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "21c41625-15f4-4efe-8ee8-ca437e6c3b16",
+          "ServingSize": "Sandwich",
+          "Fat": 19.0,
+          "Carbs": 40.0,
+          "Protein": 28.0,
+          "Calories": 443.0,
+          "Description": "Chic-fil-A chicken sandwich",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 19.0,
+        "Carbs": 40.0,
+        "Protein": 28.0,
+        "Calories": 443.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "ServingSize": "Shake",
+          "Fat": 25.0,
+          "Carbs": 86.0,
+          "Protein": 15.0,
+          "Calories": 629.0,
+          "Description": "Chic-fil-A large vanilla shake",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 25.0,
+        "Carbs": 86.0,
+        "Protein": 15.0,
+        "Calories": 629.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "7fa8d2da-933b-498c-b1c8-655a603d7da6",
+          "ServingSize": "Breast",
+          "Fat": 1.0,
+          "Carbs": 0.0,
+          "Protein": 25.0,
+          "Calories": 109.0,
+          "Description": "Simple Truth natural chicken breast",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 1.0,
+        "Carbs": 0.0,
+        "Protein": 25.0,
+        "Calories": 109.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "762bbc47-1489-47dc-927b-a4e7e3ef33fd",
+          "ServingSize": "Tortilla",
+          "Fat": 3.0,
+          "Carbs": 26.0,
+          "Protein": 4.0,
+          "Calories": 147.0,
+          "Description": "Mission flour tortillas soft taco",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 3.0,
+        "Carbs": 26.0,
+        "Protein": 4.0,
+        "Calories": 147.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "4ecd1b91-4118-4df7-9777-26557f63340c",
+          "ServingSize": "Half Cup",
+          "Fat": 16.0,
+          "Carbs": 2.0,
+          "Protein": 14.0,
+          "Calories": 208.0,
+          "Description": "Kroger queso quesadilla finely shredded cheese",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 16.0,
+        "Carbs": 2.0,
+        "Protein": 14.0,
+        "Calories": 208.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "081a7278-7a38-4117-aaec-e575cd8a8c0b",
+          "ServingSize": "Pepper",
+          "Fat": 0.2,
+          "Carbs": 7.6,
+          "Protein": 1.0,
+          "Calories": 36.2,
+          "Description": "General green bell pepper",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.1,
+        "Carbs": 3.8,
+        "Protein": 0.5,
+        "Calories": 18.1
+      },
+      {
+        "ServingAmount": 0.25,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 36.0,
+        "Protein": 3.0,
+        "Calories": 156.0
+      }
+    ],
+    "Custom": []
+  }
+}

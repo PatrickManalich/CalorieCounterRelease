@@ -1,0 +1,105 @@
+{
+  "DateTime": "2020-08-16T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 105.5,
+  "TotalCarbs": 215.0,
+  "TotalProtein": 100.0,
+  "TotalCalories": 2209.5,
+  "MealProportionsDictionary": {
+    "Small": [],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 39.0,
+        "Protein": 0.0,
+        "Calories": 156.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2a44f03d-81c9-4fee-a151-4c16cade2eb8",
+          "ServingSize": "Meal",
+          "Fat": 27.0,
+          "Carbs": 57.0,
+          "Protein": 23.0,
+          "Calories": 563.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 27.0,
+        "Carbs": 57.0,
+        "Protein": 23.0,
+        "Calories": 563.0
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "471524d8-8d5d-4622-88c3-2efe3efdf8e4",
+          "ServingSize": "Meal",
+          "Fat": 19.0,
+          "Carbs": 22.0,
+          "Protein": 12.0,
+          "Calories": 307.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 38.0,
+        "Carbs": 44.0,
+        "Protein": 24.0,
+        "Calories": 614.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2f4eaa36-c395-4945-9023-b93552ed8c13",
+          "ServingSize": "Meal",
+          "Fat": 0.0,
+          "Carbs": 15.0,
+          "Protein": 2.0,
+          "Calories": 68.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 15.0,
+        "Protein": 2.0,
+        "Calories": 68.0
+      },
+      {
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "113b08ea-a07c-495a-9e1b-eb50234d5a1d",
+          "ServingSize": "Meal",
+          "Fat": 27.0,
+          "Carbs": 40.0,
+          "Protein": 34.0,
+          "Calories": 539.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 40.5,
+        "Carbs": 60.0,
+        "Protein": 51.0,
+        "Calories": 808.5
+      }
+    ]
+  }
+}
