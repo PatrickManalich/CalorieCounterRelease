@@ -502,5 +502,23 @@
     "MuscleMass": 45.8,
     "BoneMass": 5.0,
     "Bmi": 20.9
+  },
+  "2020-08-17T00:00:00-04:00": {
+    "DateTime": "2020-08-17T00:00:00-04:00",
+    "Weight": 132.8,
+    "BodyFat": 12.4,
+    "BodyWater": 64.1,
+    "MuscleMass": 45.6,
+    "BoneMass": 5.0,
+    "Bmi": 21.1
+  },
+  "2020-08-24T00:00:00-04:00": {
+    "DateTime": "2020-08-24T00:00:00-04:00",
+    "Weight": 132.8,
+    "BodyFat": 12.3,
+    "BodyWater": 64.2,
+    "MuscleMass": 45.6,
+    "BoneMass": 5.0,
+    "Bmi": 21.1
   }
 }

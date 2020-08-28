@@ -726,5 +726,31 @@
     "TrainingDayCarbs": 366.2,
     "TrainingDayProtein": 151.3,
     "TrainingDayCalories": 2654.3
+  },
+  "2020-08-17T00:00:00-04:00": {
+    "DateTime": "2020-08-17T00:00:00-04:00",
+    "Weight": 132.8,
+    "CalorieMaintenanceLevel": 2161.8,
+    "RestDayFat": 71.9,
+    "RestDayCarbs": 263.5,
+    "RestDayProtein": 152.7,
+    "RestDayCalories": 2311.8,
+    "TrainingDayFat": 65.1,
+    "TrainingDayCarbs": 366.3,
+    "TrainingDayProtein": 152.7,
+    "TrainingDayCalories": 2661.8
+  },
+  "2020-08-24T00:00:00-04:00": {
+    "DateTime": "2020-08-24T00:00:00-04:00",
+    "Weight": 132.8,
+    "CalorieMaintenanceLevel": 2161.8,
+    "RestDayFat": 71.9,
+    "RestDayCarbs": 263.5,
+    "RestDayProtein": 152.7,
+    "RestDayCalories": 2311.8,
+    "TrainingDayFat": 65.1,
+    "TrainingDayCarbs": 366.3,
+    "TrainingDayProtein": 152.7,
+    "TrainingDayCalories": 2661.8
   }
 }
