@@ -1,0 +1,106 @@
+{
+  "DateTime": "2020-09-01T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 77.4,
+  "TotalCarbs": 181.0,
+  "TotalProtein": 88.3,
+  "TotalCalories": 1773.8,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6e389c3b-db03-4ca9-b6d7-b7f2436b9caa",
+          "ServingSize": "Drink",
+          "Fat": 0.0,
+          "Carbs": 51.0,
+          "Protein": 0.0,
+          "Calories": 204.0,
+          "Description": "McDonald's medium sprite",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 51.0,
+        "Protein": 0.0,
+        "Calories": 204.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0ddcf9d1-8a68-4469-b2b9-0be38e513f05",
+          "ServingSize": "Meal",
+          "Fat": 30.0,
+          "Carbs": 54.0,
+          "Protein": 23.0,
+          "Calories": 578.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 30.0,
+        "Carbs": 54.0,
+        "Protein": 23.0,
+        "Calories": 578.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "efe65a21-e5e9-435f-9bcc-182220eb8d81",
+          "ServingSize": "Meal",
+          "Fat": 27.0,
+          "Carbs": 40.0,
+          "Protein": 34.0,
+          "Calories": 539.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 27.0,
+        "Carbs": 40.0,
+        "Protein": 34.0,
+        "Calories": 539.0
+      }
+    ]
+  }
+}

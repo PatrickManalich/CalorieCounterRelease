@@ -1,0 +1,159 @@
+{
+  "DateTime": "2020-08-27T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 92.9,
+  "TotalCarbs": 326.1,
+  "TotalProtein": 123.3,
+  "TotalCalories": 2633.7,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "c721f1a1-ebd0-477b-9ffd-f25856d14eae",
+          "ServingSize": "Bagel",
+          "Fat": 3.5,
+          "Carbs": 53.0,
+          "Protein": 9.0,
+          "Calories": 279.5,
+          "Description": "Thomas everything bagel",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 3.5,
+        "Carbs": 53.0,
+        "Protein": 9.0,
+        "Calories": 279.5
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "ec544bd0-c811-4627-a440-bad70cbe477f",
+          "ServingSize": "Bagel",
+          "Fat": 20.0,
+          "Carbs": 3.2,
+          "Protein": 3.6,
+          "Calories": 207.2,
+          "Description": "Philadelphia cream cheese original",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 3.2,
+        "Protein": 3.6,
+        "Calories": 207.2
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "dcbbd488-1980-48ca-914b-078e8dae6ddd",
+          "ServingSize": "Burger",
+          "Fat": 23.0,
+          "Carbs": 32.0,
+          "Protein": 24.0,
+          "Calories": 431.0,
+          "Description": "McDonald's plain double cheeseburger",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 46.0,
+        "Carbs": 64.0,
+        "Protein": 48.0,
+        "Calories": 862.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "dc3b5f6b-6f74-4176-9ff4-f8bad1df7dec",
+          "ServingSize": "Container",
+          "Fat": 10.0,
+          "Carbs": 29.0,
+          "Protein": 3.0,
+          "Calories": 218.0,
+          "Description": "McDonald's small world famous fries",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 10.0,
+        "Carbs": 29.0,
+        "Protein": 3.0,
+        "Calories": 218.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6562b011-4868-4fea-9eae-842bdd62ddc8",
+          "ServingSize": "Drink",
+          "Fat": 0.0,
+          "Carbs": 69.0,
+          "Protein": 0.0,
+          "Calories": 276.0,
+          "Description": "McDonald's large sprite",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 69.0,
+        "Protein": 0.0,
+        "Calories": 276.0
+      },
+      {
+        "ServingAmount": 0.1,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 8.0,
+        "Carbs": 0.0,
+        "Protein": 23.5,
+        "Calories": 166.0
+      },
+      {
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 47.5,
+        "Protein": 4.0,
+        "Calories": 206.0
+      }
+    ],
+    "Custom": []
+  }
+}

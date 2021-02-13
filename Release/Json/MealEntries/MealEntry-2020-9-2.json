@@ -1,0 +1,159 @@
+{
+  "DateTime": "2020-09-02T00:00:00-04:00",
+  "DayType": 1,
+  "TotalFat": 74.7,
+  "TotalCarbs": 218.7,
+  "TotalProtein": 153.8,
+  "TotalCalories": 2162.3,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "2db5d992-e797-43c8-b6f5-a6c2aec3396b",
+          "ServingSize": "Bar",
+          "Fat": 20.0,
+          "Carbs": 9.0,
+          "Protein": 30.0,
+          "Calories": 336.0,
+          "Description": "Clif builder's protein bar chocolate mint",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 20.0,
+        "Carbs": 9.0,
+        "Protein": 30.0,
+        "Calories": 336.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "0625b9d1-57ce-465c-82f0-76953090a50a",
+          "ServingSize": "Fruit",
+          "Fat": 0.4,
+          "Carbs": 27.0,
+          "Protein": 1.3,
+          "Calories": 116.8,
+          "Description": "General banana",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 0.4,
+        "Carbs": 27.0,
+        "Protein": 1.3,
+        "Calories": 116.8
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "6e095bf4-7439-4bce-8946-4a6434bed151",
+          "ServingSize": "Container",
+          "Fat": 18.0,
+          "Carbs": 13.5,
+          "Protein": 42.0,
+          "Calories": 384.0,
+          "Description": "Chick-fil-A twelve count nuggets",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 18.0,
+        "Carbs": 13.5,
+        "Protein": 42.0,
+        "Calories": 384.0
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "f632ab19-b9f2-487c-bfb3-5466da9a186d",
+          "ServingSize": "Shake",
+          "Fat": 25.0,
+          "Carbs": 86.0,
+          "Protein": 15.0,
+          "Calories": 629.0,
+          "Description": "Chick-fil-A large vanilla shake",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 25.0,
+        "Carbs": 86.0,
+        "Protein": 15.0,
+        "Calories": 629.0
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "e8889cbd-2f83-4d90-b2cd-d4256fcad4c4",
+          "ServingSize": "Bag",
+          "Fat": 7.5,
+          "Carbs": 5.0,
+          "Protein": 95.0,
+          "Calories": 467.5,
+          "Description": "Kroger cooked shrimp tail on peeled and deveined extra large",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 3.8,
+        "Carbs": 2.5,
+        "Protein": 47.5,
+        "Calories": 234.2
+      },
+      {
+        "ServingAmount": 0.5,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 72.0,
+        "Protein": 6.0,
+        "Calories": 312.0
+      },
+      {
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "f5680fb4-10b8-4c9e-967f-37253c7fd98f",
+          "ServingSize": "Egg",
+          "Fat": 4.8,
+          "Carbs": 0.4,
+          "Protein": 6.3,
+          "Calories": 70.0,
+          "Description": "General egg",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 7.2,
+        "Carbs": 0.6,
+        "Protein": 9.5,
+        "Calories": 105.2
+      },
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "e579ae7b-faa0-4cd8-a868-0d88f6282a4d",
+          "ServingSize": "Half Cup",
+          "Fat": 0.3,
+          "Carbs": 8.1,
+          "Protein": 2.5,
+          "Calories": 45.1,
+          "Description": "General peas and carrots",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.3,
+        "Carbs": 8.1,
+        "Protein": 2.5,
+        "Calories": 45.1
+      }
+    ],
+    "Custom": []
+  }
+}

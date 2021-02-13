@@ -1,0 +1,160 @@
+{
+  "DateTime": "2020-08-29T00:00:00-04:00",
+  "DayType": 2,
+  "TotalFat": 112.9,
+  "TotalCarbs": 384.9,
+  "TotalProtein": 184.7,
+  "TotalCalories": 3294.5,
+  "MealProportionsDictionary": {
+    "Small": [
+      {
+        "ServingAmount": 1.0,
+        "MealSource": {
+          "Id": "a927f188-780c-459a-a546-fb5b01b5b033",
+          "ServingSize": "Smoothie",
+          "Fat": 5.4,
+          "Carbs": 60.4,
+          "Protein": 32.2,
+          "Calories": 419.0,
+          "Description": "The Classic protein smoothie",
+          "MealSourceType": 0,
+          "Archived": false
+        },
+        "Fat": 5.4,
+        "Carbs": 60.4,
+        "Protein": 32.2,
+        "Calories": 419.0
+      }
+    ],
+    "Large": [
+      {
+        "ServingAmount": 1.5,
+        "MealSource": {
+          "Id": "81baaae7-185b-499a-8926-661537bbc946",
+          "ServingSize": "Biscuit",
+          "Fat": 20.0,
+          "Carbs": 16.0,
+          "Protein": 48.0,
+          "Calories": 436.0,
+          "Description": "Chick-fil-A chicken biscuit",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 30.0,
+        "Carbs": 24.0,
+        "Protein": 72.0,
+        "Calories": 654.0
+      },
+      {
+        "ServingAmount": 0.1,
+        "MealSource": {
+          "Id": "5a2126a3-3177-4ee6-8399-cf035226c216",
+          "ServingSize": "Roast",
+          "Fat": 80.0,
+          "Carbs": 0.0,
+          "Protein": 234.7,
+          "Calories": 1658.8,
+          "Description": "Simple Truth natural pork 32 oz",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 8.0,
+        "Carbs": 0.0,
+        "Protein": 23.5,
+        "Calories": 166.0
+      },
+      {
+        "ServingAmount": 0.33,
+        "MealSource": {
+          "Id": "43ff7c5d-b870-40f9-90a8-c55a7afa3305",
+          "ServingSize": "Cup",
+          "Fat": 0.0,
+          "Carbs": 144.0,
+          "Protein": 12.0,
+          "Calories": 624.0,
+          "Description": "Mahatma extra long enriched rice",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 47.5,
+        "Protein": 4.0,
+        "Calories": 206.0
+      },
+      {
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "5a1fbfbf-e62f-47a6-aed8-a2a370cd9d67",
+          "ServingSize": "Roll",
+          "Fat": 2.5,
+          "Carbs": 14.0,
+          "Protein": 3.0,
+          "Calories": 90.5,
+          "Description": "King's Hawaiian savory butter roll",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 7.5,
+        "Carbs": 42.0,
+        "Protein": 9.0,
+        "Calories": 271.5
+      },
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "925bcc52-bb92-4370-a9b5-b33f82f31906",
+          "ServingSize": "Slice",
+          "Fat": 17.0,
+          "Carbs": 35.0,
+          "Protein": 16.0,
+          "Calories": 357.0,
+          "Description": "Slice of large pepperoni magnifico pizza from Marco's",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 34.0,
+        "Carbs": 70.0,
+        "Protein": 32.0,
+        "Calories": 714.0
+      },
+      {
+        "ServingAmount": 3.0,
+        "MealSource": {
+          "Id": "59f049d2-7d70-4e21-b133-48849a56dfd2",
+          "ServingSize": "Can",
+          "Fat": 0.0,
+          "Carbs": 39.0,
+          "Protein": 0.0,
+          "Calories": 156.0,
+          "Description": "Coca-Cola 12 oz can",
+          "MealSourceType": 1,
+          "Archived": false
+        },
+        "Fat": 0.0,
+        "Carbs": 117.0,
+        "Protein": 0.0,
+        "Calories": 468.0
+      }
+    ],
+    "Custom": [
+      {
+        "ServingAmount": 2.0,
+        "MealSource": {
+          "Id": "407dd271-97fc-4a2a-8b13-2e3ba5cd0bd5",
+          "ServingSize": "Meal",
+          "Fat": 14.0,
+          "Carbs": 12.0,
+          "Protein": 6.0,
+          "Calories": 198.0,
+          "Description": "",
+          "MealSourceType": 2,
+          "Archived": false
+        },
+        "Fat": 28.0,
+        "Carbs": 24.0,
+        "Protein": 12.0,
+        "Calories": 396.0
+      }
+    ]
+  }
+}
